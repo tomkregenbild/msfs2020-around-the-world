@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LL59 to LLHA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LL59</DepartureID>
+        <DepartureLLA>N31° 54' 40.56",E34° 41' 53.01",+000033.00</DepartureLLA>
+        <DestinationID>LLHA</DestinationID>
+        <DestinationLLA>N32° 48' 37.42",E35° 2' 37.13",+000021.00</DestinationLLA>
+        <Descr>LL59, LLHA</Descr>
+        <DepartureName>Palmahim AB</DepartureName>
+        <DestinationName>Haifa</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LL59">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 53' 58.99",E34° 41' 27.81",+000033.00</WorldPosition>
+            <RunwayNumberFP>20</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>LL59</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NOFAR">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N32° 1' 13.00",E34° 44' 18.00",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LL</ICAORegion>
+                <ICAOIdent>NOFAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="D259F">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N32° 19' 18.78",E34° 51' 6.19",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LL</ICAORegion>
+                <ICAOIdent>D259F</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hadera  Po">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 28' 16.76",E34° 53' 16.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kesarya">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 30' 10.64",E34° 53' 45.04",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Maagan Mic">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 34' 46.76",E34° 55' 8.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dor Haboni">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 37' 56.77",E34° 55' 25.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Atlit">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 41' 37.36",E34° 55' 55.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Atlit Junc">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 42' 41.83",E34° 57' 9.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Shikmona R">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 49' 7.43",E34° 57' 17.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GALIM">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N32° 50' 0.00",E34° 58' 0.00",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LL</ICAORegion>
+                <ICAOIdent>GALIM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 51' 46.04",E35° 1' 15.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 51' 46.04",E35° 1' 15.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LLHA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 48' 37.42",E35° 2' 37.13",+000021.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LLHA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

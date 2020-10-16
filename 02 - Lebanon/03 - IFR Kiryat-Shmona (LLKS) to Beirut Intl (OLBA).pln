@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LLKS to OLBA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>6500</CruisingAlt>
+        <DepartureID>LLKS</DepartureID>
+        <DepartureLLA>N33° 13' 11.06",E35° 35' 57.36",+000316.00</DepartureLLA>
+        <DestinationID>OLBA</DestinationID>
+        <DestinationLLA>N33° 49' 13.76",E35° 29' 15.51",+000045.00</DestinationLLA>
+        <Descr>LLKS, OLBA</Descr>
+        <DepartureName>Kiryat-Shmona</DepartureName>
+        <DestinationName>Beirut Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LLKS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 12' 57.93",E35° 35' 45.82",+000316.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LLKS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hula Natur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 5' 0.56",E35° 36' 29.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Naqoura">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 7' 46.20",E35° 5' 53.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rachidiye">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 14' 15.78",E35° 13' 17.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tyre Hippo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 16' 3.93",E35° 12' 35.42",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tyre Cemen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 16' 8.44",E35° 11' 20.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4Tyre Po">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 16' 44.86",E35° 11' 16.17",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Jokanda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 17' 0.11",E35° 12' 53.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mt Hermon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 20' 36.37",E35° 41' 25.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sidon Sea ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 34' 3.00",E35° 21' 32.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bkassine P">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 33' 28.25",E35° 34' 3.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wadi Jezzi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 32' 53.75",E35° 34' 52.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fortress o">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 34' 49.86",E35° 36' 32.18",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qaraoon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 34' 0.70",E35° 43' 8.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Moussa Cas">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 42' 18.73",E35° 34' 58.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 45' 21.86",E35° 26' 53.89",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW03">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 45' 21.86",E35° 26' 53.89",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="OLBA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 49' 13.76",E35° 29' 15.51",+000045.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OLBA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3500</CruisingAlt>
+      <CreationDate>2020-10-11T20:25:39</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="35.041576" Lat="32.815155" Alt="21.00"/>
+      <Start>16</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>LLKS03</Name>
+        <Runway>03</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Haifa</Name>
+        <Ident>LLHA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.043648" Lat="32.810394" Alt="21.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kiryat Yam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.070660" Lat="32.849598" Alt="1136.01"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Port of Akko</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.066360" Lat="32.919151" Alt="2850.28"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tel Akko</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.087563" Lat="32.920918" Alt="3290.50"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bahai Garden - Akko</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.092216" Lat="32.943249" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Naharia</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.091873" Lat="33.010967" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Achziv National Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.095501" Lat="33.044430" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rosh Hanikra Sea Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.100563" Lat="33.071045" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rosh Hanikra Grottoes</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.104168" Lat="33.093197" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nahal Kaziv National Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.202103" Lat="33.042484" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monfor National Prak</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.229053" Lat="33.043350" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tarshiha</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.276859" Lat="33.009239" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nahal Haemek National Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.249050" Lat="32.959129" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Karmiel</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.293510" Lat="32.915619" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Shchenia Mountain Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.251110" Lat="32.852623" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Toran Mountain Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.349602" Lat="32.781212" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Basilica of the Annunciation</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.297672" Lat="32.702106" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tveria</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.533020" Lat="32.795067" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Al Al</Name>
+        <Ident>OS73</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.718193" Lat="32.786640" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ahilof Ahoren Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.821583" Lat="32.881027" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Gamla Waterfall</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.747681" Lat="32.914902" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Brehat Hameshushim</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.678761" Lat="32.935505" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Katzrin</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.688507" Lat="32.990810" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rosh Pina</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.544609" Lat="32.968204" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tzfat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.498306" Lat="32.964314" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Birya Forest</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.519718" Lat="32.992252" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Hula Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.599243" Lat="33.077015" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kfar Blum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.607697" Lat="33.172474" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.680759" Lat="33.221745" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Banias Waterfall</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.681660" Lat="33.240696" Alt="3260.08"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nahal Hermon Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.653526" Lat="33.223755" Alt="2814.32"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Hurshat Tal - National Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.630291" Lat="33.216106" Alt="2493.20"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kiryat-Shmona</Name>
+        <Ident>LLKS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.596062" Lat="33.216091" Alt="316.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

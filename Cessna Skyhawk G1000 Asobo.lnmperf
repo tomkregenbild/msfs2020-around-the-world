@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2020-10-07T03:17:47</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+      <AircraftType>Skyhawk</AircraftType>
+      <Description></Description>
+      <FuelAsVolume>1</FuelAsVolume>
+      <JetFuel>0</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>1335.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>5.000</ReserveFuelLbsGal>
+      <RunwayType>SOFT</RunwayType>
+      <TaxiFuelLbsGal>1.000</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>56.000</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>12.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>100.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>13.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>90.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>615.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>12.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>122.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>7.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>112.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>478.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-10-16T22:01:06</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="33.829815" Lat="31.085453" Alt="111.00"/>
+      <Start>16</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HESH04L</Name>
+        <Runway>04L</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>El Arish Intl</Name>
+        <Ident>HEAR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="33.835854" Lat="31.073223" Alt="111.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Hasna</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.783150" Lat="30.467392" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.778259" Lat="30.456663" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.753197" Lat="30.308578" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.740322" Lat="30.184902" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.736889" Lat="29.969955" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.749763" Lat="29.950323" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nekhal</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.744785" Lat="29.909712" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.155914" Lat="29.709524" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.331696" Lat="29.668961" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 8</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.400360" Lat="29.711910" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 55 - 9</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.642059" Lat="29.671347" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Eilat\Taba Vorder</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.937508" Lat="29.539412" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Taba</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.900429" Lat="29.493402" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Strand Beach Resort</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.795181" Lat="29.386065" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Adjust to Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.738190" Lat="29.313644" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Catle Zaman Reservation</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.738533" Lat="29.219004" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP33Basata Vilage</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.735527" Lat="29.207317" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Camps</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.689781" Lat="29.164753" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Maagana Camp</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.674782" Lat="29.106258" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Camps</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.679226" Lat="29.097353" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sun Dance Camp</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.665985" Lat="29.066376" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Soft Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.663624" Lat="29.044014" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nuweiba</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.673279" Lat="29.030807" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nuweiba Port</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.664009" Lat="28.993126" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>East Shore 1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.637917" Lat="28.936655" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ras Mamlah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.622810" Lat="28.729130" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Qurdud</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.578178" Lat="28.633953" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Galum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.558994" Lat="28.615381" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Naqb Shahayn</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.543846" Lat="28.577888" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>East Shore 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.515694" Lat="28.551353" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP5Dahab</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.506767" Lat="28.504902" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sharm El Sheikh - Dahab Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.349632" Lat="28.349411" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Straits of Tiran</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.478767" Lat="28.068344" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nabq</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.436195" Lat="28.050776" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>TurnAround</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.037640" Lat="27.740061" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ras Mohamed Nature Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.222134" Lat="27.735201" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Old Town</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.284275" Lat="27.877625" Alt="2286.92"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sharm El Sheikh Intl</Name>
+        <Ident>HESH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="34.394943" Lat="27.977383" Alt="121.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

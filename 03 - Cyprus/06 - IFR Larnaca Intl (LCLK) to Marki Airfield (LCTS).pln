@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LCLK to LCNC</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>LCLK</DepartureID>
+        <DepartureLLA>N34° 51' 50.64",E33° 36' 43.50",+000008.00</DepartureLLA>
+        <DestinationID>LCNC</DestinationID>
+        <DestinationLLA>N35° 9' 10.51",E33° 16' 33.74",+000719.00</DestinationLLA>
+        <Descr>LCLK, LCNC</Descr>
+        <DepartureName>Larnaca Intl</DepartureName>
+        <DestinationName>Mammari Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LCLK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 52' 25.41",E33° 37' 25.96",+000008.00</WorldPosition>
+            <RunwayNumberFP>4</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LCLK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 55' 0.86",E33° 38' 21.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP29">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 55' 47.47",E33° 38' 20.07",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP30">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 31.57",E33° 40' 52.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP31">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 59' 2.97",E33° 44' 35.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sirens Bea">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 35.38",E33° 55' 24.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ayia Napa ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 33.48",E33° 56' 40.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nissi Beac">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 59' 5.12",E33° 58' 0.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ayia Napa ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 48.55",E34° 0' 7.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Love Bridg">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 51.46",E34° 0' 54.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Landou">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 28.17",E34° 1' 41.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sea Caves">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 2.97",E34° 3' 13.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monument o">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 57' 39.54",E34° 3' 48.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Lighth">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 57' 20.05",E34° 4' 59.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cape Greco">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 57' 31.82",E34° 5' 20.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gape Greco">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 59' 1.20",E34° 4' 13.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 5' 35.62",E33° 58' 7.83",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ghost Town">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 7' 30.37",E33° 57' 33.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Faramagust">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 7' 37.95",E33° 57' 12.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Othellos C">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 7' 45.92",E33° 56' 41.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 13' 32.55",E33° 53' 45.81",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP34">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 18' 58.49",E33° 57' 4.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP35">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 19' 38.82",E34° 2' 37.27",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="North Cypr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 31' 41.43",E34° 8' 43.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP36">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 29' 29.13",E34° 5' 14.24",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP38">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 26' 41.02",E33° 58' 21.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP37">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 24' 34.13",E33° 50' 57.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tatlisu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 23' 56.85",E33° 45' 24.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP39">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 21' 14.61",E33° 37' 42.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP40">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 19' 54.96",E33° 29' 28.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP41">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 20' 2.01",E33° 21' 6.81",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Girne">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 20' 34.03",E33° 20' 8.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Girne Cast">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 20' 40.07",E33° 19' 15.76",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP42">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 20' 41.33",E33° 12' 32.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP44">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 21' 9.57",E33° 4' 8.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP43">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 21' 50.89",E33° 1' 42.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sadrazamko">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 23' 16.05",E32° 57' 2.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dagdere Go">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 19' 29.74",E33° 4' 33.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="St Hilario">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 18' 38.31",E33° 16' 42.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kanlikoy G">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 14' 28.08",E33° 14' 52.89",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Athlassa N">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 7' 48.57",E33° 23' 27.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 5' 54.90",E33° 19' 14.55",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 5' 54.90",E33° 19' 14.55",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LCNC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 9' 10.51",E33° 16' 33.74",+000719.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LCNC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

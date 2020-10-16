@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-10-15T17:07:04</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="36.024876" Lat="34.595242" Alt="23.00"/>
+      <Start>24</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>LCLK22</Name>
+        <Runway>22</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Rene Mouawad AB</Name>
+        <Ident>OLKA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="36.011440" Lat="34.589314" Alt="23.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.905346" Lat="34.961372" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.754284" Lat="34.983032" Alt="2375.62"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Larnaca Intl</Name>
+        <Ident>LCLK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="33.623878" Lat="34.873726" Alt="8.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

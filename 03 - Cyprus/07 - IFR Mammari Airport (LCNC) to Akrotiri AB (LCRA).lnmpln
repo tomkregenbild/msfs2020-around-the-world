@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-10-16T15:33:37</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="33.267715" Lat="35.161434" Alt="719.00"/>
+      <Start>14</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>LCRA10</Name>
+        <Runway>10</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Mammari Airport</Name>
+        <Ident>LCNC</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="33.276039" Lat="35.152920" Alt="719.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kami Amiaptos</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.937244" Lat="34.916058" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monestery of St. John</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.912868" Lat="34.894379" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>The Kaldonian Falls</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.869095" Lat="34.900997" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Agios Dimitrios</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.809013" Lat="34.921688" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kykkos Monastery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.746529" Lat="34.980503" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Cedar Vally</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.656235" Lat="35.027748" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lysos</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.516159" Lat="34.994568" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Evretou Dam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.472214" Lat="34.970093" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Poli Crysochous</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.425156" Lat="35.040398" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Baths of Aphrodite</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.345505" Lat="35.058384" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>North Cyprus Peak</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.285252" Lat="35.106850" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Akamas Peninsula National Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.279758" Lat="35.035339" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Stick to Shore</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.309628" Lat="35.003284" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lara Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.313404" Lat="34.960247" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Coral Bay</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.366962" Lat="34.857483" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kissonerga</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.391682" Lat="34.829586" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tombs of the Kings</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.405071" Lat="34.778843" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kato Paphos</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.413998" Lat="34.758255" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Paphos Aphrodite Waterpark</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.440434" Lat="34.741047" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Asprokremos Reservoir</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.559566" Lat="34.740765" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Oreites Forest</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.634499" Lat="34.743587" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Paphos Massol</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.712776" Lat="34.746902" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kouris Reservoir</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.919800" Lat="34.747253" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kouris Dam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.917912" Lat="34.726906" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Water Mania</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.974388" Lat="34.654884" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nymphea of Kourion</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.884220" Lat="34.665688" Alt="2024.11"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Akrotiri AB</Name>
+        <Ident>LCRA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="32.987732" Lat="34.590420" Alt="72.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>10000</CruisingAlt>
+      <CreationDate>2020-10-15T16:37:21</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="35.497082" Lat="33.819096" Alt="45.00"/>
+      <Start>21</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>OLKA06</Name>
+        <Runway>06</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Beirut Intl</Name>
+        <Ident>OLBA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.487640" Lat="33.820488" Alt="45.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Raouche Rocks</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.465191" Lat="33.890652" Alt="1831.91"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Muhamad AlAmin Mosque</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.504608" Lat="33.895470" Alt="2645.95"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lebanon Port</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.545357" Lat="33.907001" Alt="3525.47"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Shouf Biosphere Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.731663" Lat="33.750748" Alt="8938.67"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Baalbek Roman Ruins</Ident>
+        <Type>USER</Type>
+        <Pos Lon="36.202038" Lat="34.004715" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Chabrouh Dam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.834553" Lat="34.028690" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lake Chabrouh</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.835968" Lat="34.036301" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jabal Moussa Biosphere Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.782581" Lat="34.058491" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Baatara Waterfall</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.868530" Lat="34.173447" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tannourine El Faouqa</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.938129" Lat="34.208004" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sydet Quet</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.893196" Lat="34.253281" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Faraidis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.932076" Lat="34.277752" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Waddi Qannoubine</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.943020" Lat="34.255905" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>St. Jude Churge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.975334" Lat="34.244518" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Ali River</Ident>
+        <Type>USER</Type>
+        <Pos Lon="36.000526" Lat="34.247143" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ceders of God</Ident>
+        <Type>USER</Type>
+        <Pos Lon="36.044342" Lat="34.250549" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qurnat as Sawda'</Ident>
+        <Type>USER</Type>
+        <Pos Lon="36.102699" Lat="34.312531" Alt="9390.62"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Horsh Eden</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.983746" Lat="34.308987" Alt="7879.18"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mazarat El Toufa</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.947311" Lat="34.322739" Alt="7370.56"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kfar Sghab</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.912121" Lat="34.335217" Alt="6884.37"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sakhra</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.926025" Lat="34.353214" Alt="6556.20"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tripoli</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.828007" Lat="34.435799" Alt="4779.18"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Palm Islands Nature Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.759686" Lat="34.488449" Alt="3593.85"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Rene Mouawad AB</Name>
+        <Ident>OLKA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="36.011440" Lat="34.589314" Alt="23.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

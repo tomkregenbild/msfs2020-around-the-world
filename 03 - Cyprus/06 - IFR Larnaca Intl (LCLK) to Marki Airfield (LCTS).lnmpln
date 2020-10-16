@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-10-16T15:12:11</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="33.612083" Lat="34.864067" Alt="8.00"/>
+      <Start>04</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>LCNC32</Name>
+        <Runway>32</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Larnaca Intl</Name>
+        <Ident>LCLK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="33.623878" Lat="34.873726" Alt="8.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP28</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.639252" Lat="34.916904" Alt="1115.17"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP29</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.638908" Lat="34.929852" Alt="1433.92"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP30</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.681137" Lat="34.975437" Alt="2842.73"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP31</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.743279" Lat="34.984158" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sirens Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.923470" Lat="34.976494" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ayia Napa Marina</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.944500" Lat="34.975967" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nissi Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.966816" Lat="34.984756" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ayia Napa Harbour</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.002220" Lat="34.980152" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Love Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.015179" Lat="34.980961" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Landou</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.028313" Lat="34.974491" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sea Caves</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.053802" Lat="34.967491" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monument of Peace</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.063416" Lat="34.960983" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>The Lighthouse in Cape Greco</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.083157" Lat="34.955570" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Cape Greco</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.088928" Lat="34.958839" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Gape Greco National Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.070305" Lat="34.983665" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP32</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.968842" Lat="35.093227" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ghost Town Palm Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.959282" Lat="35.125103" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Faramagusta Port</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.953445" Lat="35.127209" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Othello's Castle</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.944908" Lat="35.129421" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP33</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.896057" Lat="35.225708" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP34</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.951332" Lat="35.316246" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP35</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.043686" Lat="35.327450" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>North Cyprus</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.145363" Lat="35.528175" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP36</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.087288" Lat="35.491425" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP38</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.972618" Lat="35.444729" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP37</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.849365" Lat="35.409481" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tatlisu</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.756721" Lat="35.399124" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP39</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.628609" Lat="35.354057" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP40</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.491280" Lat="35.331932" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP41</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.351891" Lat="35.333893" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Girne</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.335808" Lat="35.342785" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Girne Castle</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.321045" Lat="35.344463" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP42</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.209068" Lat="35.344814" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP44</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.068993" Lat="35.352657" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP43</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.028481" Lat="35.364136" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sadrazamkoy</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.950706" Lat="35.387791" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dagdere Goleti</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.076019" Lat="35.324928" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>St. Hilarion Castle</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.278538" Lat="35.310642" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kanlikoy Goleti</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.248024" Lat="35.241135" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Athlassa National Forest Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="33.390957" Lat="35.130157" Alt="2726.94"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mammari Airport</Name>
+        <Ident>LCNC</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="33.276039" Lat="35.152920" Alt="719.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LCNC to LCRA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>LCNC</DepartureID>
+        <DepartureLLA>N35° 9' 41.16",E33° 16' 3.78",+000719.00</DepartureLLA>
+        <DestinationID>LCRA</DestinationID>
+        <DestinationLLA>N34° 35' 25.51",E32° 59' 15.83",+000072.00</DestinationLLA>
+        <Descr>LCNC, LCRA</Descr>
+        <DepartureName>Mammari Airport</DepartureName>
+        <DestinationName>Akrotiri AB</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LCNC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 9' 10.51",E33° 16' 33.74",+000719.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LCNC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kami Amiap">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 54' 57.81",E32° 56' 14.08",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monestery ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 53' 39.76",E32° 54' 46.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Kaldon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 54' 3.59",E32° 52' 8.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Agios Dimi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 55' 18.08",E32° 48' 32.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kykkos Mon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 49.81",E32° 44' 47.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cedar Vall">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 1' 39.89",E32° 39' 22.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lysos">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 59' 40.44",E32° 30' 58.17",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Evretou Da">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 12.33",E32° 28' 19.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Poli Cryso">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 2' 25.43",E32° 25' 30.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Baths of A">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 3' 30.18",E32° 20' 43.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="North Cypr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 6' 24.66",E32° 17' 6.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Akamas Pen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 2' 7.22",E32° 16' 47.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stick to S">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 0' 11.82",E32° 18' 34.66",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lara Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 57' 36.89",E32° 18' 48.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Coral Bay">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 51' 26.94",E32° 22' 1.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kissonerga">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 49' 46.51",E32° 23' 30.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tombs of t">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 46' 43.83",E32° 24' 18.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kato Papho">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 45' 29.72",E32° 24' 50.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Paphos Aph">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 44' 27.77",E32° 26' 25.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Asprokremo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 44' 26.75",E32° 33' 34.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oreites Fo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 44' 36.91",E32° 38' 4.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Paphos Mas">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 44' 48.85",E32° 42' 45.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kouris Res">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 44' 50.11",E32° 55' 11.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kouris Dam">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 43' 36.86",E32° 55' 4.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Water Mani">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 39' 17.58",E32° 58' 27.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nymphea of">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 39' 56.48",E32° 53' 3.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 36' 33.79",E32° 54' 56.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 36' 33.79",E32° 54' 56.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LCRA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 35' 25.51",E32° 59' 15.83",+000072.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LCRA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

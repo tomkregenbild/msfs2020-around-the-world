@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LCRA to HEAR</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>LCRA</DepartureID>
+        <DepartureLLA>N34° 35' 12.30",E33° 0' 6.02",+000072.00</DepartureLLA>
+        <DestinationID>HEAR</DestinationID>
+        <DestinationLLA>N31° 4' 23.60",E33° 50' 9.07",+000111.00</DestinationLLA>
+        <Descr>LCRA, HEAR</Descr>
+        <DepartureName>Akrotiri AB</DepartureName>
+        <DestinationName>El Arish Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LCRA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 35' 25.51",E32° 59' 15.83",+000072.00</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LCRA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 7' 54.23",E33° 48' 25.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 7' 54.23",E33° 48' 25.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HEAR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 4' 23.60",E33° 50' 9.07",+000111.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HEAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

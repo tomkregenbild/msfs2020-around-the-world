@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HEAR to HESH</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>HEAR</DepartureID>
+        <DepartureLLA>N31° 5' 7.63",E33° 49' 47.33",+000111.00</DepartureLLA>
+        <DestinationID>HESH</DestinationID>
+        <DestinationLLA>N27° 58' 38.58",E34° 23' 41.80",+000121.00</DestinationLLA>
+        <Descr>HEAR, HESH</Descr>
+        <DepartureName>El Arish Intl</DepartureName>
+        <DestinationName>Sharm El Sheikh Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HEAR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 4' 23.60",E33° 50' 9.07",+000111.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HEAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hasna">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 28' 2.61",E33° 46' 59.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 27' 23.99",E33° 46' 41.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 18' 30.88",E33° 45' 11.51",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 11' 5.65",E33° 44' 25.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 58' 11.84",E33° 44' 12.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 57' 1.16",E33° 44' 59.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nekhal">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 54' 34.96",E33° 44' 41.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 42' 34.29",E34° 9' 21.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 40' 8.26",E34° 19' 54.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 42' 42.88",E34° 24' 1.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 55  9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 40' 16.85",E34° 38' 31.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EilatTaba ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 32' 21.88",E34° 56' 15.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Taba">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 29' 36.25",E34° 54' 1.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Strand Bea">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 23' 9.83",E34° 47' 42.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Adjust to ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 18' 49.12",E34° 44' 17.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Catle Zama">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 13' 8.41",E34° 44' 18.72",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33Basata">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 12' 26.34",E34° 44' 7.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Camps">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 9' 53.11",E34° 41' 23.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Maagana Ca">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 6' 22.53",E34° 40' 29.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Camps">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 5' 50.47",E34° 40' 45.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sun Dance ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 3' 58.95",E34° 39' 57.55",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Soft Beach">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 2' 38.45",E34° 39' 49.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nuweiba">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 1' 50.91",E34° 40' 23.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nuweiba Po">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 59' 35.25",E34° 39' 50.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="East Shore">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 56' 11.96",E34° 38' 16.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ras Mamlah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 43' 44.87",E34° 37' 22.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Qurdud">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 38' 2.23",E34° 34' 41.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Galum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 36' 55.37",E34° 33' 32.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Naqb Shaha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 34' 40.40",E34° 32' 37.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="East Shore">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 33' 4.87",E34° 30' 56.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5Dahab">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 30' 17.65",E34° 30' 24.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sharm El S">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 20' 57.88",E34° 20' 58.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Straits of">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 4' 6.04",E34° 28' 43.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nabq">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 3' 2.79",E34° 26' 10.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TurnAround">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 44' 24.22",E34° 2' 15.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ras Mohame">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 44' 6.72",E34° 13' 19.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Old Town">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 52' 39.45",E34° 17' 3.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 55' 54.59",E34° 20' 39.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW04L">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 55' 54.59",E34° 20' 39.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HESH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 58' 38.58",E34° 23' 41.80",+000121.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HESH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2500</CruisingAlt>
+      <CreationDate>2020-10-11T16:23:32</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="34.698059" Lat="31.911266" Alt="33.00"/>
+      <Start>20L</Start>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Palmahim AB</Name>
+        <Ident>LL59</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="34.691059" Lat="31.899719" Alt="33.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>NOFAR</Ident>
+        <Region>LL</Region>
+        <Type>WAYPOINT</Type>
+        <Pos Lon="34.738335" Lat="32.020279" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>D259F</Ident>
+        <Region>LL</Region>
+        <Type>WAYPOINT</Type>
+        <Comment>Natanya
+</Comment>
+        <Pos Lon="34.851719" Lat="32.321884" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Hadera - Power Plant</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.887859" Lat="32.471321" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kesarya</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.895844" Lat="32.502956" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Maagan Michael</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.919018" Lat="32.579655" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dor Habonim Reservation</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.923653" Lat="32.632435" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Atlit</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.932064" Lat="32.693710" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Atlit Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.952663" Lat="32.711620" Alt="2500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Shikmona Reservation</Ident>
+        <Type>USER</Type>
+        <Pos Lon="34.954807" Lat="32.818729" Alt="1984.05"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GALIM</Ident>
+        <Region>LL</Region>
+        <Type>WAYPOINT</Type>
+        <Pos Lon="34.966667" Lat="32.833332" Alt="1712.26"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>User_WP</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.020874" Lat="32.862789" Alt="878.49"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare to Land</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.020874" Lat="32.862789" Alt="878.49"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Haifa</Name>
+        <Ident>LLHA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.043648" Lat="32.810394" Alt="21.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

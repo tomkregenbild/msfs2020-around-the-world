@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>6500</CruisingAlt>
+      <CreationDate>2020-10-13T16:52:20</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="35.599266" Lat="33.219738" Alt="316.00"/>
+      <Start>21</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>OLBA03</Name>
+        <Runway>03</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Kiryat-Shmona</Name>
+        <Ident>LLKS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.596062" Lat="33.216091" Alt="316.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Hula Nature Reserve</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.608093" Lat="33.083488" Alt="3589.25"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Naqoura</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.098087" Lat="33.129501" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rachidiye</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.221642" Lat="33.237717" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tyre Hippodrom</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.209839" Lat="33.267757" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tyre Cementery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.189156" Lat="33.269012" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP4Tyre Port</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.187824" Lat="33.279129" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Jokanda Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.214775" Lat="33.283363" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mt Hermon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.690319" Lat="33.343437" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sidon Sea Catle</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.358929" Lat="33.567501" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bkassine Pine Forest</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.567669" Lat="33.557846" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Wadi Jezzine</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.581272" Lat="33.548264" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Fortress of Niha</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.608940" Lat="33.580517" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qaraoon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.718987" Lat="33.566860" Alt="6500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Moussa Castle</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.582859" Lat="33.705204" Alt="4463.37"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ILS Start</Ident>
+        <Type>USER</Type>
+        <Pos Lon="35.402359" Lat="33.695210" Alt="2149.76"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Beirut Intl</Name>
+        <Ident>OLBA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="35.487640" Lat="33.820488" Alt="45.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

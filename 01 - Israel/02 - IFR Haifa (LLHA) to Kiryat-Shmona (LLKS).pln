@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LLHA to LLKS</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>LLHA</DepartureID>
+        <DepartureLLA>N32° 48' 54.56",E35° 2' 29.67",+000021.00</DepartureLLA>
+        <DestinationID>LLKS</DestinationID>
+        <DestinationLLA>N33° 12' 57.93",E35° 35' 45.82",+000316.00</DestinationLLA>
+        <Descr>LLHA, LLKS</Descr>
+        <DepartureName>Haifa</DepartureName>
+        <DestinationName>Kiryat-Shmona</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LLHA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 48' 37.42",E35° 2' 37.13",+000021.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LLHA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kiryat Yam">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 50' 58.55",E35° 4' 14.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Port of Ak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 55' 8.94",E35° 3' 58.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tel Akko">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 55' 15.30",E35° 5' 15.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bahai Gard">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 56' 35.70",E35° 5' 31.98",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Naharia">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 0' 39.48",E35° 5' 30.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Achziv Nat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 2' 39.95",E35° 5' 43.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rosh Hanik">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 4' 15.76",E35° 6' 2.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rosh Hanik">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 5' 35.51",E35° 6' 15.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nahal Kazi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 2' 32.94",E35° 12' 7.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monfor Nat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 2' 36.06",E35° 13' 44.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tarshiha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 0' 33.26",E35° 16' 36.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nahal Haem">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 57' 32.87",E35° 14' 56.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Karmiel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 54' 56.23",E35° 17' 36.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Shchenia M">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 51' 9.44",E35° 15' 4.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Toran Moun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 52.36",E35° 20' 58.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Basilica o">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 42' 7.58",E35° 17' 51.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tveria">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 42.24",E35° 31' 58.87",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="OS73">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 47' 11.90",E35° 43' 5.49",+003500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OS73</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ahilof Aho">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 52' 51.70",E35° 49' 17.70",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gamla Wate">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 54' 53.65",E35° 44' 51.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brehat Ham">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 56' 7.82",E35° 40' 43.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Katzrin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 59' 26.92",E35° 41' 18.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rosh Pina">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 58' 5.54",E35° 32' 40.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tzfat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 57' 51.53",E35° 29' 53.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Birya Fore">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 59' 32.11",E35° 31' 10.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hula Reser">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 4' 37.25",E35° 35' 57.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kfar Blum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 10' 20.91",E35° 36' 27.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Park">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 13' 18.28",E35° 40' 50.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Banias Wat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 14' 26.51",E35° 40' 53.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nahal Herm">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 13' 25.52",E35° 39' 12.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hurshat Ta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 12' 57.98",E35° 37' 49.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 10' 15.12",E35° 33' 23.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW03">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 10' 15.12",E35° 33' 23.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LLKS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 12' 57.93",E35° 35' 45.82",+000316.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LLKS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

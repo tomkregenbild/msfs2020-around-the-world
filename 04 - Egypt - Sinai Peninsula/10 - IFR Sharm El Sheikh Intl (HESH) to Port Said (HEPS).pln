@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HESH to HEPS</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>HESH</DepartureID>
+        <DepartureLLA>N27° 59' 9.44",E34° 24' 25.26",+000121.00</DepartureLLA>
+        <DestinationID>HEPS</DestinationID>
+        <DestinationLLA>N31° 16' 45.90",E32° 14' 24.07",+000006.00</DestinationLLA>
+        <Descr>HESH, HEPS</Descr>
+        <DepartureName>Sharm El Sheikh Intl</DepartureName>
+        <DestinationName>Port Said</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HESH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 58' 38.58",E34° 23' 41.80",+000121.00</WorldPosition>
+            <RunwayNumberFP>22</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HESH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Shooping M">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 57' 16.85",E33° 53' 2.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Tor">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 14' 41.88",E33° 37' 54.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mount Sana">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 32' 21.45",E33° 58' 29.88",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Saint Cath">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 33' 21.16",E33° 58' 32.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Suez Gulf">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 38' 15.79",E33° 13' 17.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ras Abu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 53' 41.58",E33° 11' 29.04",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="On the way">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 0' 3.36",E33° 10' 50.72",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Zeiman">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 3' 2.76",E33° 6' 27.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pharaoh Ba">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 11' 48.58",E32° 57' 24.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ras Sedr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 36' 1.18",E32° 41' 45.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 44' 13.04",E32° 41' 43.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 48' 56.25",E32° 37' 6.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 51' 47.79",E32° 38' 20.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Port Tawki">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 55' 50.21",E32° 33' 36.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ash Shatt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 57' 11.87",E32° 35' 8.92",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Suez Canna">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 58' 46.36",E32° 35' 12.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Farry">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 2' 35.33",E32° 34' 28.92",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Great Bitt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 11' 28.09",E32° 34' 7.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abou Sulta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 24' 49.47",E32° 21' 28.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Timsah Lak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 34' 33.09",E32° 17' 54.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Suez Canal">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 36' 52.46",E32° 19' 19.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10Al Fri">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 41' 9.78",E32° 20' 23.52",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Peace Brid">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 49' 41.72",E32° 19' 0.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bardawil L">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 8' 57.68",E33° 8' 47.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 15' 46.27",E32° 18' 29.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 15' 46.27",E32° 18' 29.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HEPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 16' 45.90",E32° 14' 24.07",+000006.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HEPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>OLKA to LCLK</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>OLKA</DepartureID>
+        <DepartureLLA>N34° 35' 42.87",E36° 1' 29.55",+000023.00</DepartureLLA>
+        <DestinationID>LCLK</DestinationID>
+        <DestinationLLA>N34° 52' 25.41",E33° 37' 25.96",+000008.00</DestinationLLA>
+        <Descr>OLKA, LCLK</Descr>
+        <DepartureName>Rene Mouawad AB</DepartureName>
+        <DestinationName>Larnaca Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="OLKA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 35' 21.53",E36° 0' 41.18",+000023.00</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>OLKA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 57' 40.94",E33° 54' 19.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 58' 58.92",E33° 45' 15.42",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 55' 8.08",E33° 40' 44.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 55' 8.08",E33° 40' 44.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LCLK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 52' 25.41",E33° 37' 25.96",+000008.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LCLK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
