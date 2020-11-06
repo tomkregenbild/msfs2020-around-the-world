@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HE25 to HELX</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HE25</DepartureID>
+        <DepartureLLA>N28° 6' 49.56",E30° 43' 30.02",+000115.00</DepartureLLA>
+        <DestinationID>HELX</DestinationID>
+        <DestinationLLA>N25° 40' 15.74",E32° 42' 23.05",+000282.00</DestinationLLA>
+        <Descr>HE25, HELX</Descr>
+        <DepartureName>El Minya</DepartureName>
+        <DestinationName>Luxor Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HE25">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 6' 4.98",E30° 43' 48.77",+000115.00</WorldPosition>
+            <RunwayNumberFP>15</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HE25</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mansafis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 0' 15.62",E30° 48' 54.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Beni Hasan">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 55' 53.60",E30° 52' 31.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nile">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 52' 24.16",E30° 50' 0.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qualandur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 48' 48.86",E30° 50' 1.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ElRawda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 48' 14.70",E30° 51' 44.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Bayadiy">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 46' 40.94",E30° 53' 25.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mallawi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 43' 59.61",E30° 50' 56.98",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Great Aten">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 39' 3.27",E30° 53' 52.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Small Aten">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 38' 42.94",E30° 53' 48.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dayr Mawas">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 38' 28.54",E30° 51' 26.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dayrout">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 33' 32.81",E30° 48' 40.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kharfah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 30' 36.90",E30° 48' 24.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Quadiyy">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 26' 21.95",E30° 49' 40.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Umm Al Qus">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 23' 18.72",E30° 53' 33.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monastery ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 21' 28.70",E31° 0' 42.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Asyut">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 11' 35.62",E31° 10' 30.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nile">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 9' 12.27",E31° 17' 50.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nile">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 6' 49.00",E31° 19' 13.76",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Tij">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 2' 43.87",E31° 18' 53.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="An Nikhayl">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 1' 4.24",E31° 20' 58.66",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mijris">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 58' 43.82",E31° 22' 47.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sidfa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 57' 46.82",E31° 22' 40.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kawm Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 53' 9.53",E31° 26' 53.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jazirat Al">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 47' 7.65",E31° 32' 1.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Maragha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 42' 22.35",E31° 36' 17.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Shaik Y">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 38' 21.86",E31° 38' 2.27",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Karaman Is">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 34' 31.72",E31° 42' 1.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sohag">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 33' 27.61",E31° 41' 50.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 32' 14.08",E31° 42' 42.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AlJazeera">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 20' 18.04",E31° 53' 58.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bardis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 17' 3.88",E31° 56' 35.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Balyana">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 13' 57.11",E31° 59' 40.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nagaa Al K">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 9' 57.57",E32° 1' 52.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dam">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 9' 12.43",E32° 8' 41.77",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nile">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 6' 55.89",E32° 12' 0.52",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jazirat al">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 5' 8.36",E32° 14' 39.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nagaa Hamm">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 2' 41.11",E32° 14' 51.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dishna">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 7' 11.98",E32° 28' 13.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dendera Te">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 8' 31.59",E32° 40' 13.79",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qena">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 9' 9.03",E32° 42' 54.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Ashraf ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 5' 34.31",E32° 46' 6.04",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ad Dayr Al">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 2' 41.11",E32° 44' 56.83",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monastery">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 1' 3.38",E32° 44' 39.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qus">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 55' 6.69",E32° 45' 34.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Naqadah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 53' 58.88",E32° 43' 36.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nile">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 49' 12.49",E32° 46' 34.24",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 46.58",E32° 44' 0.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 46.58",E32° 44' 0.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HELX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 40' 15.74",E32° 42' 23.05",+000282.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HELX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

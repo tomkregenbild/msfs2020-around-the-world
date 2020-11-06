@@ -5,7 +5,7 @@
         <Title>HESH to HEPS</Title>
         <FPType>IFR</FPType>
         <RouteType>LowAlt</RouteType>
-        <CruisingAlt>3000</CruisingAlt>
+        <CruisingAlt>2000</CruisingAlt>
         <DepartureID>HESH</DepartureID>
         <DepartureLLA>N27° 59' 9.44",E34° 24' 25.26",+000121.00</DepartureLLA>
         <DestinationID>HEPS</DestinationID>
@@ -26,6 +26,10 @@
                 <ICAOIdent>HESH</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
+        <ATCWaypoint id="Ras Mohame">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 44' 35.16",E34° 13' 37.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
         <ATCWaypoint id="Shooping M">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N27° 57' 16.85",E33° 53' 2.59",+000000.00</WorldPosition>
@@ -33,14 +37,6 @@
         <ATCWaypoint id="El Tor">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N28° 14' 41.88",E33° 37' 54.16",+000000.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="Mount Sana">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N28° 32' 21.45",E33° 58' 29.88",+000000.00</WorldPosition>
-        </ATCWaypoint>
-        <ATCWaypoint id="Saint Cath">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N28° 33' 21.16",E33° 58' 32.36",+000000.00</WorldPosition>
         </ATCWaypoint>
         <ATCWaypoint id="Suez Gulf">
             <ATCWaypointType>User</ATCWaypointType>
@@ -110,7 +106,7 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N30° 36' 52.46",E32° 19' 19.25",+000000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP10Al Fri">
+        <ATCWaypoint id="Al Fridan">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N30° 41' 9.78",E32° 20' 23.52",+000000.00</WorldPosition>
         </ATCWaypoint>

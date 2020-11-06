@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-05T17:46:15</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="30.725004" Lat="28.113768" Alt="115.00"/>
+      <Start>15L</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HELX20</Name>
+        <Runway>20</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>El Minya</Name>
+        <Ident>HE25</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="30.730215" Lat="28.101383" Alt="115.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mansafis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.815052" Lat="28.004339" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Beni Hasan</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.875360" Lat="27.931555" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.833538" Lat="27.873377" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qualandur</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.833712" Lat="27.813572" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El-Rawda</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.862295" Lat="27.804083" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Bayadiyyah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.890362" Lat="27.778038" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mallawi</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.849161" Lat="27.733225" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Great Aten Tample</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.897848" Lat="27.650908" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Small Aten Temple</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.896774" Lat="27.645262" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dayr Mawas</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.857498" Lat="27.641262" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dayrout</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.811319" Lat="27.559114" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kharfah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.806932" Lat="27.510250" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Quadiyya</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.828047" Lat="27.439430" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Umm Al Qusur</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.892677" Lat="27.388533" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monastery of Great Martyr</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.011786" Lat="27.357973" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Asyut</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.175188" Lat="27.193228" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.297403" Lat="27.153408" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.320488" Lat="27.113611" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Tij</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.314911" Lat="27.045519" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>An Nikhaylah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.349628" Lat="27.017845" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mijris</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.379755" Lat="26.978838" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sidfa</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.377956" Lat="26.963005" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kawm Al 'Arab</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.448315" Lat="26.885981" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jazirat Al Haridi</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.533672" Lat="26.785458" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Maraghah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.604998" Lat="26.706209" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Shaik Youssef</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.633965" Lat="26.639406" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Karaman Island</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.700527" Lat="26.575478" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sohag</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.697395" Lat="26.557669" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.711901" Lat="26.537245" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al-Jazeera</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.899611" Lat="26.338345" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bardis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.943214" Lat="26.284410" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Balyana</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.994711" Lat="26.232531" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nagaa Al Khawalid</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.031189" Lat="26.165991" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.144936" Lat="26.153452" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.200146" Lat="26.115524" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jazirat al Kilh</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.244286" Lat="26.085655" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nagaa Hammadi</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.247524" Lat="26.044752" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dishna</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.470470" Lat="26.119995" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dendera Temple Complex</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.670498" Lat="26.142109" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qena</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.715130" Lat="26.152508" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Ashraf Al Gharbiyyah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.768345" Lat="26.092863" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ad Dayr Al Gharbi</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.749119" Lat="26.044752" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monastery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.744400" Lat="26.017605" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qus</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.759697" Lat="25.918526" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Naqadah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.726738" Lat="25.899689" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.776176" Lat="25.820137" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Luxor Intl</Name>
+        <Ident>HELX</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="32.706402" Lat="25.671038" Alt="282.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

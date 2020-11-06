@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-10-30T16:07:01</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="30.176208" Lat="30.822128" Alt="18.00"/>
+      <Start>11</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HE1513L</Name>
+        <Runway>13L</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Jiyanklis New</Name>
+        <Ident>HEGS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="30.191605" Lat="30.819546" Alt="18.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow River - 1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.278610" Lat="30.809677" Alt="1873.18"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow River - 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.357916" Lat="30.802603" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow River - 3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.430702" Lat="30.772224" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow River - 4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.469841" Lat="30.769863" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ad Dilinjat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.523399" Lat="30.815798" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Biban</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.675215" Lat="30.774731" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kawn Hamadah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.698559" Lat="30.759832" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nabaria Canal</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.747181" Lat="30.715422" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.763144" Lat="30.717489" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tunub</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.800224" Lat="30.687313" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kom Mazin</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.803980" Lat="30.677120" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kawn Sharik</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.790184" Lat="30.652386" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Tairiyah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.779593" Lat="30.642401" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Zawiyat Al Baqli</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.801256" Lat="30.620996" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Danasor</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.815998" Lat="30.604063" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Alqam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.813034" Lat="30.549511" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jizayy</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.847431" Lat="30.459328" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tahway</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.873440" Lat="30.363394" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jirays</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.921867" Lat="30.324266" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Hajir</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.912792" Lat="30.284718" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Qata</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.972359" Lat="30.225256" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ezbet Sherif</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.005894" Lat="30.197847" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.051987" Lat="30.218878" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Ikhas</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.093872" Lat="30.197144" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jizirat Al Quratiyyin</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.141745" Lat="30.170767" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>West Cairo Power Station</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.167269" Lat="30.139856" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Yassin Factories</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.231689" Lat="30.128529" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Shoubra El Khiema Power Plant</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.237055" Lat="30.124399" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.239630" Lat="30.101475" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rd Al Farag Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.230736" Lat="30.085842" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Embaba Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.225853" Lat="30.074869" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nile City Towers</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.228645" Lat="30.072569" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu El-Farag</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.232056" Lat="30.071470" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.233704" Lat="30.068138" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nafak Al Sabtia</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.243473" Lat="30.062912" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Remsis Station</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.244801" Lat="30.062927" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>St.Mark Coptic Orthodox Cathedral</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.249414" Lat="30.057005" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.250580" Lat="30.053503" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>National Theater</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.249681" Lat="30.050985" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Follow Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.252855" Lat="30.048628" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Ghoryaa</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.256804" Lat="30.047606" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Azhar Mosque</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.263021" Lat="30.045918" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>City of the Dead</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.271198" Lat="30.042202" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lake Azhar Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.262716" Lat="30.038105" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mosque-Madrassa of Sultan Hassan</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.256643" Lat="30.031576" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Port Said Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.245256" Lat="30.032944" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Grand Nile Tower</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.226713" Lat="30.035217" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abbas Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.219439" Lat="30.016006" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Malek Faysal Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.205984" Lat="30.014261" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>King Faisal Street - start</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.200747" Lat="30.014408" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>King Faisal Street - End</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.147705" Lat="29.994192" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.149700" Lat="29.989901" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Ahram Police Checkpoint</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.133398" Lat="29.983759" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>The Great Pyramid of Giza</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.131502" Lat="29.980997" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>The Great Sphinx of Giza</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.136524" Lat="29.974251" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Pyramid of Menkaure</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.128742" Lat="29.972967" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Hulwan</Name>
+        <Ident>HE15</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="31.331017" Lat="29.822458" Alt="122.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

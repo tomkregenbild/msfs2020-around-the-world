@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HE15 to HE25</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HE15</DepartureID>
+        <DepartureLLA>N29° 49' 55.91",E31° 19' 16.66",+000122.00</DepartureLLA>
+        <DestinationID>HE25</DestinationID>
+        <DestinationLLA>N28° 6' 4.98",E30° 43' 48.77",+000115.00</DestinationLLA>
+        <Descr>HE15, HE25</Descr>
+        <DepartureName>Hulwan</DepartureName>
+        <DestinationName>El Minya</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HE15">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 49' 20.85",E31° 19' 51.66",+000122.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HE15</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pyramid of">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 52' 10.73",E31° 13' 1.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Serapeum o">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 52' 26.37",E31° 12' 35.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bent Pyram">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 47' 41.98",E31° 12' 31.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Black ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 47' 29.24",E31° 13' 26.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NileBadawi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 46' 31.86",E31° 16' 0.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Regional R">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 41' 22.29",E31° 17' 9.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nazlat Ily">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 40' 29.34",E31° 17' 56.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ghammaza e">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 39' 33.63",E31° 18' 4.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Misanda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 37' 51.05",E31° 15' 45.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tahma Mins">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 37' 39.23",E31° 13' 59.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pyramid of">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 34' 29.99",E31° 13' 30.88",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pyramid of">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 33' 36.61",E31° 13' 18.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Meidum Pyr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 23' 19.80",E31° 9' 26.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Faiyum Oas">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 28' 55.37",E30° 37' 53.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wadi El Ra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 11' 6.49",E30° 23' 52.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Beni Seuf">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 3' 37.34",E31° 6' 34.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Beni Suef ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 55' 22.20",E31° 0' 10.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nile">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 52' 42.06",E30° 55' 43.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Fashn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 49' 22.87",E30° 54' 30.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Sidhum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 20' 21.44",E30° 37' 27.87",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 9' 35.99",E30° 42' 9.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW15L">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 9' 35.99",E30° 42' 9.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HE25">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 6' 4.98",E30° 43' 48.77",+000115.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HE25</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

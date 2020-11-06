@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
     <FlightPlan.FlightPlan>
         <Title>LL59 to LLHA</Title>
         <FPType>IFR</FPType>
         <RouteType>LowAlt</RouteType>
-        <CruisingAlt>2500</CruisingAlt>
+        <CruisingAlt>2500.000</CruisingAlt>
         <DepartureID>LL59</DepartureID>
         <DepartureLLA>N31° 54' 40.56",E34° 41' 53.01",+000033.00</DepartureLLA>
         <DestinationID>LLHA</DestinationID>
@@ -17,9 +18,10 @@
             <AppVersionMajor>11</AppVersionMajor>
             <AppVersionBuild>282174</AppVersionBuild>
         </AppVersion>
-        <ATCWaypoint id="LL59">
+        <ATCWaypoint id="Palmahim AB">
             <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N31° 53' 58.99",E34° 41' 27.81",+000033.00</WorldPosition>
+            <WorldPosition>N31° 53' 58.99",E34° 41' 27.81",+000032.87</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <RunwayNumberFP>20</RunwayNumberFP>
             <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
             <ICAO>
@@ -27,52 +29,64 @@
             </ICAO>
         </ATCWaypoint>
         <ATCWaypoint id="NOFAR">
-            <ATCWaypointType>Intersection</ATCWaypointType>
-            <WorldPosition>N32° 1' 13.00",E34° 44' 18.00",+000000.00</WorldPosition>
-            <ICAO>
-                <ICAORegion>LL</ICAORegion>
-                <ICAOIdent>NOFAR</ICAOIdent>
-            </ICAO>
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 1' 13.00",E34° 44' 18.00",+001550.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 18' 40.03",E34° 50' 51.57",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="D259F">
-            <ATCWaypointType>Intersection</ATCWaypointType>
-            <WorldPosition>N32° 19' 18.78",E34° 51' 6.19",+000000.00</WorldPosition>
-            <ICAO>
-                <ICAORegion>LL</ICAORegion>
-                <ICAOIdent>D259F</ICAOIdent>
-            </ICAO>
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 19' 18.78",E34° 51' 6.19",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Hadera  Po">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 28' 16.76",E34° 53' 16.29",+000000.00</WorldPosition>
+            <WorldPosition>N32° 28' 16.76",E34° 53' 16.29",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Kesarya">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 30' 10.64",E34° 53' 45.04",+000000.00</WorldPosition>
+            <WorldPosition>N32° 30' 10.64",E34° 53' 45.04",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 31' 22.82",E34° 54' 6.84",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Maagan Mic">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 34' 46.76",E34° 55' 8.46",+000000.00</WorldPosition>
+            <WorldPosition>N32° 34' 46.76",E34° 55' 8.46",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Dor Haboni">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 37' 56.77",E34° 55' 25.15",+000000.00</WorldPosition>
+            <WorldPosition>N32° 37' 56.77",E34° 55' 25.15",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Atlit">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 41' 37.36",E34° 55' 55.43",+000000.00</WorldPosition>
+            <WorldPosition>N32° 41' 37.36",E34° 55' 55.43",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Atlit Junc">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 42' 41.83",E34° 57' 9.59",+000000.00</WorldPosition>
+            <WorldPosition>N32° 42' 41.83",E34° 57' 9.59",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Shikmona R">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 49' 7.43",E34° 57' 17.31",+000000.00</WorldPosition>
+            <WorldPosition>N32° 49' 7.43",E34° 57' 17.31",+001500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="GALIM">
             <ATCWaypointType>Intersection</ATCWaypointType>
-            <WorldPosition>N32° 50' 0.00",E34° 58' 0.00",+000000.00</WorldPosition>
+            <WorldPosition>N32° 50' 0.00",E34° 58' 0.00",+001300.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAORegion>LL</ICAORegion>
                 <ICAOIdent>GALIM</ICAOIdent>
@@ -80,15 +94,18 @@
         </ATCWaypoint>
         <ATCWaypoint id="User_WP">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 51' 46.04",E35° 1' 15.15",+000000.00</WorldPosition>
+            <WorldPosition>N32° 51' 46.04",E35° 1' 15.15",+000650.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
         <ATCWaypoint id="Prepare to">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 51' 46.04",E35° 1' 15.15",+000000.00</WorldPosition>
+            <WorldPosition>N32° 51' 46.04",E35° 1' 15.15",+000650.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
         </ATCWaypoint>
-        <ATCWaypoint id="LLHA">
+        <ATCWaypoint id="Haifa">
             <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N32° 48' 37.42",E35° 2' 37.13",+000021.00</WorldPosition>
+            <WorldPosition>N32° 48' 37.42",E35° 2' 37.13",+000000.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
             <ICAO>
                 <ICAOIdent>LLHA</ICAOIdent>
             </ICAO>

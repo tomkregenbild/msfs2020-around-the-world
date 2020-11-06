@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HEPS to HEGS</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HEPS</DepartureID>
+        <DepartureLLA>N31° 16' 35.81",E32° 15' 5.63",+000006.00</DepartureLLA>
+        <DestinationID>HEGS</DestinationID>
+        <DestinationLLA>N30° 49' 10.36",E30° 11' 29.78",+000018.00</DestinationLLA>
+        <Descr>HEPS, HEGS</Descr>
+        <DepartureName>Port Said</DepartureName>
+        <DestinationName>Jiyanklis New</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HEPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 16' 45.90",E32° 14' 24.07",+000006.00</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HEPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 40  1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 21' 6.76",E32° 3' 2.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 40  2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 23' 59.82",E31° 54' 18.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Damietta B">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 25' 3.11",E31° 48' 36.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nuqrat al ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 28' 58.76",E31° 51' 54.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ras El Bar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 31' 31.04",E31° 50' 35.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Damietta P">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 27' 26.26",E31° 45' 51.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="New Diamet">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 26' 19.04",E31° 39' 1.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gamasa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 27' 3.33",E31° 29' 19.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Baltim">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 33' 12.10",E31° 5' 33.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Anabrah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 27.98",E31° 1' 46.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brollos To">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 59.51",E30° 58' 32.77",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marina Bor">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 47.27",E30° 57' 52.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 40  3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 27' 38.91",E30° 38' 23.07",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 40  4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 25' 24.73",E30° 27' 40.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fish Farm ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 28' 6.33",E30° 24' 7.94",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Idku">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 19' 12.75",E30° 17' 18.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Indectious">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 16' 5.15",E30° 10' 44.79",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ezbet Rasl">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 16' 3.83",E30° 6' 41.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tea Island">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 17' 32.03",E30° 1' 16.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Montaza Pa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 17' 20.15",E30° 0' 56.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hotel Plaz">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 14' 41.02",E29° 57' 50.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stanly Bri">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 14' 3.37",E29° 56' 58.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Keluobarta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 13' 3.26",E29° 55' 29.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fish Marke">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 12' 19.13",E29° 53' 7.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Alexandria">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 11' 18.87",E29° 52' 17.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oil Factor">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 9' 10.38",E29° 51' 55.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Junction">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 8' 6.05",E29° 51' 5.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Petrolium ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 6' 22.76",E29° 51' 19.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 50' 30.81",E30° 7' 16.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 50' 30.81",E30° 7' 16.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HEGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 49' 10.36",E30° 11' 29.78",+000018.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HEGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

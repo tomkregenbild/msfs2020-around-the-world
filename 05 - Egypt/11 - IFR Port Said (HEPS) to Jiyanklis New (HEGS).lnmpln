@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-10-24T11:49:03</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="32.251564" Lat="31.276613" Alt="6.00"/>
+      <Start>28</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HEGS11</Name>
+        <Runway>11</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Port Said</Name>
+        <Ident>HEPS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="32.240021" Lat="31.279417" Alt="6.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 40 - 1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.050648" Lat="31.351877" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 40 - 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.905077" Lat="31.399950" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Damietta Branch</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.810064" Lat="31.417530" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nuqrat al Hishah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.865028" Lat="31.482988" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ras El Bar Lighthouse</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.843227" Lat="31.525290" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Damietta Port</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.764263" Lat="31.457294" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>New Diametta City Municipality</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.650387" Lat="31.438622" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Gamasa</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.488766" Lat="31.450926" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Baltim</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.092703" Lat="31.553362" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Anabrah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.029564" Lat="31.574438" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Brollos Tower</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.975769" Lat="31.583197" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marina Borollos</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.964611" Lat="31.579798" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 40 - 3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.639742" Lat="31.460808" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 40 - 4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.461386" Lat="31.423536" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Fish Farm in Berket Ghalyoun</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.402206" Lat="31.468426" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Idku</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.288349" Lat="31.320208" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Indectious Straits</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.179108" Lat="31.268097" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ezbet Raslan</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.111433" Lat="31.267731" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tea Island</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.021225" Lat="31.292231" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Montaza Palace</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.015730" Lat="31.288931" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Hotel Plaza Alexandria</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.964062" Lat="31.244728" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Stanly Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.949642" Lat="31.234270" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Keluobarta Beach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.924795" Lat="31.217573" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Fish Market</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.885483" Lat="31.205315" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Alexandria Port</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.871536" Lat="31.188576" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Oil Factory</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.865314" Lat="31.152884" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.851580" Lat="31.135014" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Petrolium Companies</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.855335" Lat="31.106321" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Jiyanklis New</Name>
+        <Ident>HEGS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="30.191605" Lat="30.819546" Alt="18.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
