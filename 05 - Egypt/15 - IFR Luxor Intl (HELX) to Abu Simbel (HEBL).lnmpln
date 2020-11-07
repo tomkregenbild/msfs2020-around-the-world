@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-06T21:01:37</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="32.700760" Lat="25.658840" Alt="282.00"/>
+      <Start>02</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HEBL33</Name>
+        <Runway>33</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Luxor Intl</Name>
+        <Ident>HELX</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="32.706402" Lat="25.671038" Alt="282.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tample of Karnak</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.653877" Lat="25.721006" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxor Tample</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.638813" Lat="25.699934" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Temple of Deir al Bahri</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.608345" Lat="25.737474" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley of the Kings</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.601650" Lat="25.739912" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley of the Queens</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.595448" Lat="25.731445" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rammeseum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.608517" Lat="25.728138" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Collosi of Memnon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.609909" Lat="25.723364" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Medinet Habu</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.601391" Lat="25.719847" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Maris</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.565231" Lat="25.625196" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ad Dimuqrat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.463737" Lat="25.577749" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kiman Al Matanah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.508629" Lat="25.444359" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Asfun Al Matanah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.544849" Lat="25.390947" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Temple of Khnum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.556435" Lat="25.293419" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jazirat AR Riqiyyah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.629070" Lat="25.228664" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Kihl Sharq</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.841286" Lat="25.085985" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>The Temple of Horus at Edfu</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.873463" Lat="24.978277" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nagaa Az Zanbaq</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.904018" Lat="24.807539" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tample of Horemheb</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.929523" Lat="24.650341" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kalabsha</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.945530" Lat="24.630793" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Faris</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.903812" Lat="24.612061" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Muninah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.883991" Lat="24.482775" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Temple of Kom Ombo</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.928364" Lat="24.452072" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Aqabah Al Kabirah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.903130" Lat="24.279362" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>NagaaAd Disah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.888710" Lat="24.265352" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Aqabah as Saghirah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.874893" Lat="24.236790" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Amarco Docking Area</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.863995" Lat="24.186399" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Raya Mall</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.900105" Lat="24.112850" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>New Movenpick</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.893242" Lat="24.096247" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Coptic Orthodox Cathedral</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.890339" Lat="24.082695" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Elephantine Island Pyramid</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.885727" Lat="24.084688" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Aga Khan Mosuleum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.878540" Lat="24.088551" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monestery of St. Simon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.875320" Lat="24.094719" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monastery of St. Anba waste in Aswan</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.874054" Lat="24.091877" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Old Cataract Hotel</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.881161" Lat="24.080416" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Famine Stela</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.874226" Lat="24.057613" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Aswan Low Dam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.870010" Lat="24.035019" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tample of Philae</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.884087" Lat="24.025249" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Phalae Tample</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.877552" Lat="24.012480" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Aswan High Dam</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.877422" Lat="23.971313" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Russian Egyption Friendship Monument</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.867146" Lat="23.970892" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kalabsha Temple</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.867702" Lat="23.960814" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tropic of Cancer</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.881115" Lat="23.450174" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lehaa Agricultura</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.723015" Lat="23.313883" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Temple of Dakka</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.545818" Lat="22.801502" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Waddi al-Subua</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.544979" Lat="22.793453" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lake Nasser</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.331112" Lat="22.622887" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lake Nasser</Ident>
+        <Type>USER</Type>
+        <Pos Lon="32.156704" Lat="22.760986" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare for Landing</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.713087" Lat="22.212198" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Abu Simbel</Name>
+        <Ident>HEBL</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="31.610661" Lat="22.375378" Alt="616.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

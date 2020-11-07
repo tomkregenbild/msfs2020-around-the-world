@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HELX to HEBL</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HELX</DepartureID>
+        <DepartureLLA>N25° 39' 31.82",E32° 42' 2.74",+000282.00</DepartureLLA>
+        <DestinationID>HEBL</DestinationID>
+        <DestinationLLA>N22° 22' 31.36",E31° 36' 38.38",+000616.00</DestinationLLA>
+        <Descr>HELX, HEBL</Descr>
+        <DepartureName>Luxor Intl</DepartureName>
+        <DestinationName>Abu Simbel</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HELX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 40' 15.74",E32° 42' 23.05",+000282.00</WorldPosition>
+            <RunwayNumberFP>2</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HELX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tample of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 15.62",E32° 39' 13.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Luxor Tamp">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 41' 59.76",E32° 38' 19.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Temple of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 44' 14.91",E32° 36' 30.04",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Valley of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 44' 23.68",E32° 36' 5.94",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Valley of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 53.20",E32° 35' 43.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rammeseum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 41.30",E32° 36' 30.66",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Collosi of">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 24.11",E32° 36' 35.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Medinet Ha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 43' 11.45",E32° 36' 5.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Maris">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 37' 30.71",E32° 33' 54.83",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ad Dimuqra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 34' 39.90",E32° 27' 49.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kiman Al M">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 26' 39.69",E32° 30' 31.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Asfun Al M">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 23' 27.41",E32° 32' 41.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Temple of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 17' 36.31",E32° 33' 23.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jazirat AR">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 13' 43.19",E32° 37' 44.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Kihl Sh">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 5' 9.55",E32° 50' 28.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Temple">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 58' 41.80",E32° 52' 24.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nagaa Az Z">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 48' 27.14",E32° 54' 14.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tample of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 39' 1.23",E32° 55' 46.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kalabsha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 37' 50.85",E32° 56' 43.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Faris">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 36' 43.42",E32° 54' 13.72",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Muninah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 28' 57.99",E32° 53' 2.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Temple of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 27' 7.46",E32° 55' 42.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Aqabah ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 16' 45.70",E32° 54' 11.27",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NagaaAd Di">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 15' 55.27",E32° 53' 19.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Aqabah ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 14' 12.44",E32° 52' 29.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Amarco Doc">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 11' 11.04",E32° 51' 50.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Raya Ma">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 6' 46.26",E32° 54' 0.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="New Movenp">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 5' 46.49",E32° 53' 35.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Coptic Ort">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 4' 57.70",E32° 53' 25.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Elephantin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 5' 4.88",E32° 53' 8.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Aga Khan M">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 5' 18.78",E32° 52' 42.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monestery ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 5' 40.99",E32° 52' 31.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monastery ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 5' 30.76",E32° 52' 26.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Old Catara">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 4' 49.50",E32° 52' 52.18",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Famine Ste">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 3' 27.41",E32° 52' 27.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Aswan Low ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 2' 6.07",E32° 52' 12.04",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tample of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 1' 30.90",E32° 53' 2.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Phalae Tam">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 0' 44.93",E32° 52' 39.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Aswan High">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 58' 16.73",E32° 52' 38.72",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Russian Eg">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 58' 15.21",E32° 52' 1.72",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kalabsha T">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 57' 38.93",E32° 52' 3.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tropic of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 27' 0.63",E32° 52' 52.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lehaa Agri">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 18' 49.98",E32° 43' 22.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Temple of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 48' 5.41",E32° 32' 44.95",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waddi alSu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 47' 36.43",E32° 32' 41.92",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake Nasse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 37' 22.39",E32° 19' 52.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake Nasse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 45' 39.55",E32° 9' 24.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare fo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 12' 43.91",E31° 42' 47.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 19' 15.27",E31° 38' 45.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 19' 15.27",E31° 38' 45.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HEBL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 22' 31.36",E31° 36' 38.38",+000616.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HEBL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
