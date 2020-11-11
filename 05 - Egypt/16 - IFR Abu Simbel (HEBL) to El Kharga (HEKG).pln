@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HEBL to HEKG</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HEBL</DepartureID>
+        <DepartureLLA>N22° 23' 14.78",E31° 36' 16.49",+000616.00</DepartureLLA>
+        <DestinationID>HEKG</DestinationID>
+        <DestinationLLA>N25° 28' 25.04",E30° 35' 26.52",+000179.00</DestinationLLA>
+        <Descr>HEBL, HEKG</Descr>
+        <DepartureName>Abu Simbel</DepartureName>
+        <DestinationName>El Kharga</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HEBL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 22' 31.36",E31° 36' 38.38",+000616.00</WorldPosition>
+            <RunwayNumberFP>15</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HEBL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Turn Aroun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 19' 45.97",E31° 38' 25.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Turn Aroun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 18' 49.94",E31° 38' 0.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Turn Aroun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 19' 26.24",E31° 37' 15.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Simbel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 20' 18.55",E31° 37' 19.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Simbel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 20' 48.84",E31° 36' 51.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP56">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N22° 46' 52.49",E31° 26' 21.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP57">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 7' 21.64",E31° 17' 7.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Toshka Lak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 22' 11.98",E30° 38' 11.51",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fields">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N23° 56' 36.91",E30° 20' 13.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 13' 12.15",E30° 29' 49.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 18' 55.80",E30° 38' 3.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 30' 23.47",E30° 36' 55.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 32' 26.04",E30° 37' 42.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 34' 20.14",E30° 35' 59.88",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 36' 50.17",E30° 35' 20.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Baris">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 40' 32.60",E30° 36' 0.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Darb Al Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 45' 44.71",E30° 35' 35.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LuxurAl Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 51' 48.20",E30° 34' 1.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LuxurAl Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 1' 33.18",E30° 33' 51.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LuxurAl Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 8' 9.46",E30° 32' 30.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LuxurAl Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 15' 34.57",E30° 32' 0.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LuxurAl Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 19' 4.65",E30° 33' 12.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LuxurAl Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 21' 3.06",E30° 33' 19.83",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Kharga">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 24' 3.42",E30° 35' 26.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 24' 28.64",E30° 35' 27.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW36">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 24' 28.64",E30° 35' 27.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HEKG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 28' 25.04",E30° 35' 26.52",+000179.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HEKG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

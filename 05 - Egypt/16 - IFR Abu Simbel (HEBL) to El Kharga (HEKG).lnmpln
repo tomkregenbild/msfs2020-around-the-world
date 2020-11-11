@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-08T21:38:00</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="31.604582" Lat="22.387440" Alt="616.00"/>
+      <Start>15</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HEKG36</Name>
+        <Runway>36</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Abu Simbel</Name>
+        <Ident>HEBL</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="31.610661" Lat="22.375378" Alt="616.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Turn Around 1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.640495" Lat="22.329435" Alt="1935.09"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Turn Around 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.633541" Lat="22.313871" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Turn Around 3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.620926" Lat="22.323956" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Simbel Temples</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.622211" Lat="22.338486" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Simbel</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.614401" Lat="22.346901" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 75</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.439253" Lat="22.781248" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 75</Ident>
+        <Type>USER</Type>
+        <Pos Lon="31.285444" Lat="23.122677" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Toshka Lakes</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.636530" Lat="23.369995" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Fields</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.336983" Lat="23.943586" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.496973" Lat="24.220041" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.634300" Lat="24.315500" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.615417" Lat="24.506519" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.628464" Lat="24.540567" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.599966" Lat="24.572262" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.588980" Lat="24.613935" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Baris</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.600140" Lat="24.675722" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Darb Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.593273" Lat="24.762419" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxur-Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.567181" Lat="24.863388" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxur-Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.564434" Lat="25.025883" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxur-Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.541775" Lat="25.135962" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxur-Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.533537" Lat="25.259604" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxur-Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.553448" Lat="25.317959" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luxur-Al Arbaein</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.555508" Lat="25.350849" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Kharga</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.590832" Lat="25.400949" Alt="1286.70"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>El Kharga</Name>
+        <Ident>HEKG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="30.590700" Lat="25.473621" Alt="179.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

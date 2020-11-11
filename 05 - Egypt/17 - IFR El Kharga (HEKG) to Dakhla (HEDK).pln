@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HEKG to HEDK</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HEKG</DepartureID>
+        <DepartureLLA>N25° 29' 20.64",E30° 35' 26.35",+000179.00</DepartureLLA>
+        <DestinationID>HEDK</DestinationID>
+        <DestinationLLA>N25° 24' 41.74",E29° 0' 10.77",+000593.00</DestinationLLA>
+        <Descr>HEKG, HEDK</Descr>
+        <DepartureName>El Kharga</DepartureName>
+        <DestinationName>Dakhla</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HEKG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 28' 25.04",E30° 35' 26.52",+000179.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HEKG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TUrn Aroun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 31' 23.64",E30° 35' 29.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gabbanat a">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 29' 11.74",E30° 33' 17.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Temple of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 28' 35.41",E30° 33' 20.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Kharga">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 26' 48.06",E30° 32' 36.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 26' 49.18",E30° 32' 2.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 24' 53.65",E30° 30' 17.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 22' 47.21",E30° 28' 55.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 23' 19.31",E30° 26' 12.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 18' 28.91",E30° 11' 42.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 15' 6.62",E30° 4' 41.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 13' 38.30",E30° 3' 18.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 14' 5.13",E29° 54' 49.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 12' 13.32",E29° 47' 19.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 14' 58.79",E29° 39' 59.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 15' 58.59",E29° 38' 44.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 16' 53.36",E29° 34' 43.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 18' 40.63",E29° 31' 52.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 19' 20.86",E29° 30' 13.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 19' 27.00",E29° 29' 8.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 20' 59.16",E29° 27' 44.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 23' 7.59",E29° 24' 44.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 27' 8.71",E29° 21' 6.70",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 28' 48.03",E29° 20' 22.83",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tunayda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 30' 35.68",E29° 20' 23.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 31' 48.74",E29° 17' 11.87",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 33' 41.79",E29° 15' 50.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road 60">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 33' 51.96",E29° 13' 39.24",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dakhla">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 31' 55.99",E29° 7' 41.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mut">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 29' 41.86",E28° 58' 45.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 27' 51.18",E28° 58' 6.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 27' 51.18",E28° 58' 6.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HEDK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 24' 41.74",E29° 0' 10.77",+000593.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HEDK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

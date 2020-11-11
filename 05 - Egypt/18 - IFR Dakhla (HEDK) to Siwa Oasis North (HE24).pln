@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HEDK to HE24</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HEDK</DepartureID>
+        <DepartureLLA>N25° 24' 8.00",E29° 0' 32.86",+000593.00</DepartureLLA>
+        <DestinationID>HE24</DestinationID>
+        <DestinationLLA>N29° 20' 47.56",E25° 30' 19.88",+000301.00</DestinationLLA>
+        <Descr>HEDK, HE24</Descr>
+        <DepartureName>Dakhla</DepartureName>
+        <DestinationName>Siwa Oasis North</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HEDK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 24' 41.74",E29° 0' 10.77",+000593.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HEDK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mut">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 29' 38.79",E28° 58' 43.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Rashda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 34' 27.63",E28° 55' 52.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 35' 6.66",E28° 54' 52.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 36' 19.94",E28° 54' 38.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 37' 23.75",E28° 54' 36.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Budkholo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 37' 56.35",E28° 55' 11.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 38' 26.85",E28° 55' 0.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 38' 45.20",E28° 54' 59.95",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 39' 49.71",E28° 55' 5.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 40' 34.55",E28° 55' 35.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ezbet Fite">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 40' 52.65",E28° 55' 32.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 41' 59.76",E28° 54' 41.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 42' 10.89",E28° 53' 49.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 41' 51.96",E28° 53' 6.51",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Qaser">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 41' 40.54",E28° 53' 0.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Mingar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 30' 11.32",E27° 39' 52.28",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Farafra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 3' 30.65",E27° 58' 12.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rawiti">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 20' 50.26",E28° 51' 46.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Baharia Oa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 23' 0.77",E28° 53' 47.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP29">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 44' 54.23",E26° 58' 40.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 17' 32.32",E25° 31' 35.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW34">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 17' 32.32",E25° 31' 35.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HE24">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 20' 47.56",E25° 30' 19.88",+000301.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HE24</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

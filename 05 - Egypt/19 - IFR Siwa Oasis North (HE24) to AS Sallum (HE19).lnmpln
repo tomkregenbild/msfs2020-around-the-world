@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-09T16:58:04</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="25.508060" Lat="29.339952" Alt="301.00"/>
+      <Start>34</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HE1931</Name>
+        <Runway>31</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Siwa Oasis North</Name>
+        <Ident>HE24</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="25.505522" Lat="29.346544" Alt="301.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marsa Matruh-Siwa Rd</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.850920" Lat="29.893044" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marsa Matruh-Siwa Rd</Ident>
+        <Type>USER</Type>
+        <Pos Lon="26.471647" Lat="30.462881" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marsa Matruh-Siwa Rd</Ident>
+        <Type>USER</Type>
+        <Pos Lon="26.773771" Lat="30.958769" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marsa Matruh</Ident>
+        <Type>USER</Type>
+        <Pos Lon="27.242064" Lat="31.360676" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Rakham</Ident>
+        <Type>USER</Type>
+        <Pos Lon="27.035383" Lat="31.404051" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marsah Matruh-El Salloum Rd</Ident>
+        <Type>USER</Type>
+        <Pos Lon="26.247458" Lat="31.531727" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sidi Barrani</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.927309" Lat="31.609388" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare to Lend</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.408720" Lat="31.336630" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>AS Sallum</Name>
+        <Ident>HE19</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="25.283718" Lat="31.457407" Alt="50.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

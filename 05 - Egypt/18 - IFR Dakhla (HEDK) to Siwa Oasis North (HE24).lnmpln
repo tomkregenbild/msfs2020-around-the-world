@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-09T16:50:38</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="29.009129" Lat="25.402222" Alt="593.00"/>
+      <Start>33</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HE2434</Name>
+        <Runway>34</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Dakhla</Name>
+        <Ident>HEDK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="29.002991" Lat="25.411594" Alt="593.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mut</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.978870" Lat="25.494108" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Rashda</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.931147" Lat="25.574341" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.914581" Lat="25.585184" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.910719" Lat="25.605539" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.910202" Lat="25.623264" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Budkholo</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.919817" Lat="25.632318" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.916748" Lat="25.640791" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.916653" Lat="25.645889" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.918100" Lat="25.663809" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.926426" Lat="25.676264" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ezbet Fiteima</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.925653" Lat="25.681292" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.911663" Lat="25.699934" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.897072" Lat="25.703026" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Farafra-Al Wahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.885141" Lat="25.697767" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Qaser</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.883425" Lat="25.694595" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Mingar</Ident>
+        <Type>USER</Type>
+        <Pos Lon="27.664522" Lat="26.503145" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Farafra</Ident>
+        <Type>USER</Type>
+        <Pos Lon="27.970081" Lat="27.058514" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rawiti</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.862888" Lat="28.347294" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Baharia Oasis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.896536" Lat="28.383547" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP29</Ident>
+        <Type>USER</Type>
+        <Pos Lon="26.978048" Lat="28.748396" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Siwa Oasis North</Name>
+        <Ident>HE24</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="25.505522" Lat="29.346544" Alt="301.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

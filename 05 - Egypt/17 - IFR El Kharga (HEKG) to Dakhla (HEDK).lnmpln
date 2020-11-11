@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-09T21:04:42</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="30.590652" Lat="25.489067" Alt="179.00"/>
+      <Start>18</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HEDK15</Name>
+        <Runway>15</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>El Kharga</Name>
+        <Ident>HEKG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="30.590700" Lat="25.473621" Alt="179.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>TUrn Around</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.591520" Lat="25.523233" Alt="1400.27"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Gabbanat al-Bagawat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.554762" Lat="25.486595" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Temple of Hibis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.555555" Lat="25.476503" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>El Kharga</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.543364" Lat="25.446684" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.534164" Lat="25.446995" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.504894" Lat="25.414904" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.482149" Lat="25.379780" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.436934" Lat="25.388697" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.195232" Lat="25.308031" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.078161" Lat="25.251839" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="30.055159" Lat="25.227306" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.913708" Lat="25.234758" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.788738" Lat="25.203699" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.666517" Lat="25.249664" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.645748" Lat="25.266275" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.578629" Lat="25.281488" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.531248" Lat="25.311287" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.503611" Lat="25.322460" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.485586" Lat="25.324167" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.462412" Lat="25.349766" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.412287" Lat="25.385441" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.351862" Lat="25.452419" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.339676" Lat="25.480009" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tunayda</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.339844" Lat="25.509911" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.286631" Lat="25.530205" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.264067" Lat="25.561607" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road 60</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.227566" Lat="25.564434" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dakhla</Ident>
+        <Type>USER</Type>
+        <Pos Lon="29.128185" Lat="25.532219" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mut</Ident>
+        <Type>USER</Type>
+        <Pos Lon="28.979399" Lat="25.494961" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Dakhla</Name>
+        <Ident>HEDK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="29.002991" Lat="25.411594" Alt="593.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HE24 to HE19</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HE24</DepartureID>
+        <DepartureLLA>N29° 20' 23.83",E25° 30' 29.02",+000301.00</DepartureLLA>
+        <DestinationID>HE19</DestinationID>
+        <DestinationLLA>N31° 27' 26.67",E25° 17' 1.39",+000050.00</DestinationLLA>
+        <Descr>HE24, HE19</Descr>
+        <DepartureName>Siwa Oasis North</DepartureName>
+        <DestinationName>AS Sallum</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HE24">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 20' 47.56",E25° 30' 19.88",+000301.00</WorldPosition>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HE24</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marsa Matr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 53' 34.96",E25° 51' 3.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marsa Matr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 27' 46.37",E26° 28' 17.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marsa Matr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 57' 31.57",E26° 46' 25.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marsa Matr">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 21' 38.43",E27° 14' 31.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="El Rakham">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 24' 14.58",E27° 2' 7.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marsah Mat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 31' 54.22",E26° 14' 50.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sidi Barra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 36' 33.80",E25° 55' 38.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 20' 11.87",E25° 24' 31.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 24' 51.95",E25° 19' 51.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW31">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 24' 51.95",E25° 19' 51.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HE19">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 27' 26.67",E25° 17' 1.39",+000050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HE19</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
