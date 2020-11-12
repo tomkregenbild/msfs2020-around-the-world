@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>IFR</FlightplanType>
       <CruisingAlt>2000</CruisingAlt>
-      <CreationDate>2020-11-09T16:50:38</CreationDate>
+      <CreationDate>2020-11-12T00:02:12</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.1.beta</ProgramVersion>
@@ -133,9 +133,9 @@
         <Pos Lon="28.896536" Lat="28.383547" Alt="2000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP29</Ident>
+        <Ident>Sitra Lake</Ident>
         <Type>USER</Type>
-        <Pos Lon="26.978048" Lat="28.748396" Alt="2000.00"/>
+        <Pos Lon="26.978046" Lat="28.748398" Alt="2000.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Siwa Oasis North</Name>
