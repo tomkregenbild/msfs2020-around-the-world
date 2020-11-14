@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HL68 to HLLB</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>HL68</DepartureID>
+        <DepartureLLA>N32° 26' 28.03",E23° 7' 46.18",+000093.00</DepartureLLA>
+        <DestinationID>HLLB</DestinationID>
+        <DestinationLLA>N32° 5' 48.55",E20° 16' 10.45",+000400.00</DestinationLLA>
+        <Descr>HL68, HLLB</Descr>
+        <DepartureName>Al Bumbah North</DepartureName>
+        <DestinationName>Benina</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HL68">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 27' 10.56",E23° 7' 6.81",+000093.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HL68</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Umm Ar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 32' 3.72",E23° 0' 33.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Junction">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 36' 29.85",E22° 45' 56.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Martubah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 34' 34.78",E22° 45' 44.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cement Fac">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 37' 1.34",E22° 43' 51.94",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Derna">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 48.97",E22° 38' 26.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ain Mara">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 8.43",E22° 22' 58.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 19.64",E22° 22' 29.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 55.62",E22° 21' 31.07",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 27.82",E22° 19' 39.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 17.70",E22° 18' 12.86",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abu Bakr S">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 41.57",E22° 14' 31.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 44.84",E22° 8' 35.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Small Town">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 19.65",E22° 4' 37.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 1.71",E22° 2' 8.81",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Abraq I">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 3.80",E21° 59' 57.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Shahat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 48' 20.68",E21° 52' 23.04",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Temple of ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 49' 21.45",E21° 51' 43.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Ruins ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 49' 25.47",E21° 51' 8.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Bayda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 33.66",E21° 47' 31.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Bayda">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 41.18",E21° 43' 45.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Abraq Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 39.62",E21° 40' 54.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Massah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 7.92",E21° 37' 47.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wadi Alkou">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 41' 49.70",E21° 33' 54.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zawiat Ela">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 37' 30.74",E21° 28' 16.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qasr Libya">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 36' 57.44",E21° 24' 2.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Bayyada">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 33' 57.80",E21° 15' 12.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Taknis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 28' 57.16",E21° 7' 31.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Marj">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 29' 36.76",E20° 50' 14.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 25' 55.69",E20° 50' 9.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AlMilitani">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 16' 19.34",E20° 39' 1.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AlAbyar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 10' 44.76",E20° 35' 14.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bu Marim">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 7' 51.33",E20° 25' 58.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 59' 47.15",E20° 19' 59.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 2' 19.28",E20° 18' 24.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW33L">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 2' 19.28",E20° 18' 24.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HLLB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 5' 48.55",E20° 16' 10.45",+000400.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HLLB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

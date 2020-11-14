@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HL79 to HLGT</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>HL79</DepartureID>
+        <DepartureLLA>N25° 21' 55.84",E16° 49' 33.81",+001470.00</DepartureLLA>
+        <DestinationID>HLGT</DestinationID>
+        <DestinationLLA>N25° 8' 23.90",E10° 8' 45.98",+002284.00</DestinationLLA>
+        <Descr>HL79, HLGT</Descr>
+        <DepartureName>Waw Al Kabir</DepartureName>
+        <DestinationName>Ghat</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HL79">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 21' 24.81",E16° 48' 36.57",+001470.00</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HL79</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Agricaltur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 55' 11.68",E14° 36' 23.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Quatrun Ce">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 53' 26.87",E14° 31' 37.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fortress o">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 57' 59.19",E10° 10' 48.86",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 4' 11.60",E10° 9' 27.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW35L">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 4' 11.60",E10° 9' 27.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HLGT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 8' 23.90",E10° 8' 45.98",+002284.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HLGT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

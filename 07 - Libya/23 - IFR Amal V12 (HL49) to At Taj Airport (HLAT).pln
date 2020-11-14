@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HL49 to HLAT</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>HL49</DepartureID>
+        <DepartureLLA>N29° 29' 6.47",E21° 6' 56.84",+000137.00</DepartureLLA>
+        <DestinationID>HLAT</DestinationID>
+        <DestinationLLA>N25° 33' 9.35",E21° 36' 8.21",+000877.00</DestinationLLA>
+        <Descr>HL49, HLAT</Descr>
+        <DepartureName>Amal V12</DepartureName>
+        <DestinationName>At Taj Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HL49">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 28' 45.70",E21° 7' 22.45",+000137.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HL49</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Awajilha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 7' 2.55",E21° 20' 55.88",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jalu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 1' 47.12",E21° 33' 0.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 45' 11.56",E21° 27' 22.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 30' 37.20",E21° 31' 59.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 58' 3.79",E21° 35' 14.88",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 49' 4.16",E21° 34' 55.72",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 40' 54.13",E21° 37' 10.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 35' 21.27",E21° 36' 33.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 27' 23.38",E21° 38' 27.07",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 21' 0.43",E21° 37' 48.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Khuwaym">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 14' 59.09",E21° 40' 12.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 8' 21.13",E21° 40' 24.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 1' 31.76",E21° 42' 44.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 44' 56.34",E21° 43' 44.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 25' 17.01",E21° 54' 19.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Junction">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N26° 17' 18.57",E21° 55' 48.98",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 57' 8.40",E21° 31' 25.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 36' 24.89",E21° 35' 31.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 36' 24.89",E21° 35' 31.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HLAT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 33' 9.35",E21° 36' 8.21",+000877.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HLAT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

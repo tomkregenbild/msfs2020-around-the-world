@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>5000</CruisingAlt>
+      <CreationDate>2020-11-14T17:23:16</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="10.149384" Lat="25.119562" Alt="2284.00"/>
+      <Start>35L</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HLLS31</Name>
+        <Runway>31</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Ghat</Name>
+        <Ident>HLGT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.146105" Lat="25.139973" Alt="2284.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Take Off</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.127389" Lat="25.252148" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.373208" Lat="25.394281" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.395866" Lat="25.620478" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.369775" Lat="25.734961" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.396553" Lat="25.794329" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.524269" Lat="25.806692" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Alawenat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.563922" Lat="25.779644" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.650439" Lat="25.826780" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.883214" Lat="25.813488" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.013332" Lat="25.825235" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.129375" Lat="25.864784" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.962620" Lat="26.361111" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="12.594850" Lat="26.541237" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Awbari</Ident>
+        <Type>USER</Type>
+        <Pos Lon="12.746770" Lat="26.554136" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Germa</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.076016" Lat="26.530180" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.131291" Lat="26.566420" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.355567" Lat="26.526878" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley of Threshold</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.456761" Lat="26.122150" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley of Threshold</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.488861" Lat="26.093634" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley of Threshold</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.528172" Lat="26.085155" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Dujal</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.679833" Lat="26.100956" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Murzuq</Ident>
+        <Type>USER</Type>
+        <Pos Lon="13.918445" Lat="25.914515" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qawat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.090792" Lat="25.934273" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Funqul</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.267259" Lat="25.920687" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Taraqhin</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.413944" Lat="25.940758" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.371372" Lat="25.997549" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.290347" Lat="26.236763" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ghadduwah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.272494" Lat="26.443525" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.319186" Lat="26.492701" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare to Land</Ident>
+        <Type>USER</Type>
+        <Pos Lon="14.662511" Lat="26.841228" Alt="4980.16"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sebha</Name>
+        <Ident>HLLS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="14.466051" Lat="26.991171" Alt="1414.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

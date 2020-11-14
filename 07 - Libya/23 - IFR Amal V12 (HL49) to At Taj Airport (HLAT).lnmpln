@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3500</CruisingAlt>
+      <CreationDate>2020-11-14T16:22:09</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="21.115788" Lat="29.485130" Alt="137.00"/>
+      <Start>13</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HLAT17</Name>
+        <Runway>17</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Amal V12</Name>
+        <Ident>HL49</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="21.122902" Lat="29.479362" Alt="137.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Awajilha</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.348856" Lat="29.117374" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Jalu</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.550045" Lat="29.029755" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lake</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.456316" Lat="28.753212" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.533220" Lat="28.510334" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.587467" Lat="27.967720" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.582144" Lat="27.817822" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.619566" Lat="27.681704" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.609266" Lat="27.589241" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.640852" Lat="27.456495" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.630209" Lat="27.350119" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Khuwaymat Airport</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.670033" Lat="27.249746" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.673466" Lat="27.139202" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.712263" Lat="27.025490" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.729086" Lat="26.748983" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.905552" Lat="26.421392" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.930273" Lat="26.288492" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare to Land</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.524467" Lat="25.949402" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>At Taj Airport</Name>
+        <Ident>HLAT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="21.602280" Lat="25.552597" Alt="877.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

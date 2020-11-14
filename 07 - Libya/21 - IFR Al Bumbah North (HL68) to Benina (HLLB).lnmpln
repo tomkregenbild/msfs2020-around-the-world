@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3500</CruisingAlt>
+      <CreationDate>2020-11-14T13:52:50</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="23.129494" Lat="32.441120" Alt="93.00"/>
+      <Start>32</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HLLB33L</Name>
+        <Runway>33L</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Al Bumbah North</Name>
+        <Ident>HL68</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="23.118559" Lat="32.452934" Alt="93.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Umm Ar</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.009293" Lat="32.534367" Alt="3120.07"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.765684" Lat="32.608292" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Martubah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.762444" Lat="32.576328" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Cement Factory - Fattaih-Tuber</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.731094" Lat="32.617039" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Derna</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.640564" Lat="32.763603" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ain Mara</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.382900" Lat="32.752342" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.374939" Lat="32.772121" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.358631" Lat="32.782116" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.327648" Lat="32.791061" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.303572" Lat="32.788250" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Bakr Siddiq Mosque</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.242073" Lat="32.761547" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road - Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.143110" Lat="32.779121" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Small Town</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.077000" Lat="32.788792" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="22.035780" Lat="32.783810" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Abraq Internation Airport</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.999302" Lat="32.784389" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Shahat</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.873066" Lat="32.805744" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Temple of Zeus</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.862080" Lat="32.822624" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>The Ruins of Cyrene</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.852425" Lat="32.823742" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Bayda</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.792042" Lat="32.776016" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Bayda</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.729364" Lat="32.761440" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abraq Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.681835" Lat="32.761005" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Massah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.629972" Lat="32.752201" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Wadi Alkouf Bridge</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.565191" Lat="32.697140" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Zawiat Elargoob</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.471378" Lat="32.625206" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qasr Libya</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.400652" Lat="32.615955" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Bayyadah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.253370" Lat="32.566055" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Taknis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="21.125309" Lat="32.482544" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Marj</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.837261" Lat="32.493546" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.835890" Lat="32.432137" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al-Militaniya</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.650494" Lat="32.272038" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al-Abyar</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.587322" Lat="32.179100" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bu Marim</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.432915" Lat="32.130924" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.333263" Lat="31.996429" Alt="2135.21"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Benina</Name>
+        <Ident>HLLB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="20.269569" Lat="32.096821" Alt="400.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

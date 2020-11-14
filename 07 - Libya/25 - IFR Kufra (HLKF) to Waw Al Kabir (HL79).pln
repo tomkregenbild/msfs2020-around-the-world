@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HLKF to HL79</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>HLKF</DepartureID>
+        <DepartureLLA>N24° 11' 40.97",E23° 19' 3.04",+001306.00</DepartureLLA>
+        <DestinationID>HL79</DestinationID>
+        <DestinationLLA>N25° 21' 24.81",E16° 48' 36.57",+001470.00</DestinationLLA>
+        <Descr>HLKF, HL79</Descr>
+        <DepartureName>Kufra</DepartureName>
+        <DestinationName>Waw Al Kabir</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HLKF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 10' 43.65",E23° 18' 50.45",+001306.00</WorldPosition>
+            <RunwayNumberFP>20</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HLKF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Takeoff">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 5' 36.55",E23° 17' 6.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AlJawf">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 6' 1.37",E23° 13' 6.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="At Tallab">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 1' 37.28",E23° 7' 40.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Buzaymah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 55' 7.76",E22° 2' 35.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Volcanic D">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 12' 15.78",E19° 19' 29.27",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waw an Nam">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 56' 23.97",E17° 47' 51.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 25' 26.58",E16° 56' 11.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 23' 28.91",E16° 52' 25.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW24L">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 23' 28.91",E16° 52' 25.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HL79">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 21' 24.81",E16° 48' 36.57",+001470.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HL79</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

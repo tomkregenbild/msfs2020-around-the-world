@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HLAT to HLKF</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>HLAT</DepartureID>
+        <DepartureLLA>N25° 33' 26.45",E21° 36' 5.04",+000877.00</DepartureLLA>
+        <DestinationID>HLKF</DestinationID>
+        <DestinationLLA>N24° 10' 43.65",E23° 18' 50.45",+001306.00</DestinationLLA>
+        <Descr>HLAT, HLKF</Descr>
+        <DepartureName>At Taj Airport</DepartureName>
+        <DestinationName>Kufra</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HLAT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 33' 9.35",E21° 36' 8.21",+000877.00</WorldPosition>
+            <RunwayNumberFP>17</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HLAT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 28' 36.31",E21° 42' 31.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 24' 8.44",E22° 41' 26.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 21' 14.24",E22° 45' 38.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 21' 14.24",E22° 48' 16.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 16' 37.15",E22° 54' 37.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 12' 53.57",E22° 56' 36.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 6' 39.94",E22° 56' 39.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 5' 31.66",E22° 57' 25.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 4' 5.47",E22° 57' 15.55",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 1' 51.10",E22° 59' 38.92",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 59' 29.97",E22° 59' 59.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 55' 58.20",E23° 2' 9.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 43' 27.77",E23° 6' 34.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 31' 24.19",E23° 7' 43.42",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 28' 17.49",E23° 10' 2.77",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 24' 2.06",E23° 11' 9.51",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mustafa Mo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 20' 23.65",E23° 12' 32.32",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 19' 19.46",E23° 21' 24.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 14' 35.51",E23° 19' 54.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW20R">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N24° 14' 35.51",E23° 19' 54.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HLKF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 10' 43.65",E23° 18' 50.45",+001306.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HLKF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

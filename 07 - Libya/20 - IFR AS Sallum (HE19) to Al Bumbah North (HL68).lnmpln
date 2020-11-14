@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>2000</CruisingAlt>
+      <CreationDate>2020-11-13T12:19:44</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="25.290709" Lat="31.451063" Alt="50.00"/>
+      <Start>31</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HL6832</Name>
+        <Runway>32</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>AS Sallum</Name>
+        <Ident>HE19</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="25.283718" Lat="31.457407" Alt="50.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Saloum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.154966" Lat="31.551989" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Gateway Salloum</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.085680" Lat="31.572906" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Gateway Emsaed</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.061516" Lat="31.577950" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>TAH 1 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.049845" Lat="31.582777" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Musaid</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.049673" Lat="31.608292" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bardiya</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.086517" Lat="31.753386" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>TAH 1 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="25.067591" Lat="31.743130" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bir Al Ashhab</Ident>
+        <Type>USER</Type>
+        <Pos Lon="24.658672" Lat="31.885723" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Kambut</Ident>
+        <Type>USER</Type>
+        <Pos Lon="24.481434" Lat="31.905542" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Qa'arah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="24.199478" Lat="31.952892" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>French war Cementery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.969023" Lat="32.007690" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WW2 Cementery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.966417" Lat="32.024960" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Marine Club Manar</Ident>
+        <Type>USER</Type>
+        <Pos Lon="24.005091" Lat="32.073120" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tobruk Seaport</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.978441" Lat="32.077847" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tobruk roundabout
+</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.962906" Lat="32.081703" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.812553" Lat="32.078503" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.544075" Lat="32.134918" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.362114" Lat="32.145386" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.323662" Lat="32.129105" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare to Land</Ident>
+        <Type>USER</Type>
+        <Pos Lon="23.222212" Lat="32.345741" Alt="2000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Al Bumbah North</Name>
+        <Ident>HL68</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="23.118559" Lat="32.452934" Alt="93.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

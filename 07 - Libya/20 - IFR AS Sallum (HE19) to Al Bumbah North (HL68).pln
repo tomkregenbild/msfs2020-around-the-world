@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HE19 to HL68</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>HE19</DepartureID>
+        <DepartureLLA>N31° 27' 3.83",E25° 17' 26.55",+000050.00</DepartureLLA>
+        <DestinationID>HL68</DestinationID>
+        <DestinationLLA>N32° 27' 10.56",E23° 7' 6.81",+000093.00</DestinationLLA>
+        <Descr>HE19, HL68</Descr>
+        <DepartureName>AS Sallum</DepartureName>
+        <DestinationName>Al Bumbah North</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HE19">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 27' 26.67",E25° 17' 1.39",+000050.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HE19</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Saloum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 33' 7.16",E25° 9' 17.88",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gateway Sa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 22.46",E25° 5' 8.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gateway Em">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 40.62",E25° 3' 41.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TAH 1 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 34' 58.00",E25° 2' 59.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Musaid">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 36' 29.85",E25° 2' 58.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bardiya">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 45' 12.19",E25° 5' 11.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TAH 1 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 44' 35.27",E25° 4' 3.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bir Al Ash">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 53' 8.60",E24° 39' 31.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Kambut">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 54' 19.95",E24° 28' 53.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Qaarah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 57' 10.41",E24° 11' 58.12",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="French war">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 0' 27.69",E23° 58' 8.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WW2 Cement">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 1' 29.85",E23° 57' 59.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Marine Clu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 4' 23.23",E24° 0' 18.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tobruk Sea">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 4' 40.25",E23° 58' 42.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tobruk rou">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 4' 54.13",E23° 57' 46.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 4' 42.61",E23° 48' 45.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 8' 5.71",E23° 32' 38.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 8' 43.39",E23° 21' 43.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 7' 44.78",E23° 19' 25.18",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 20' 44.67",E23° 13' 19.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 24' 5.42",E23° 9' 58.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 24' 5.42",E23° 9' 58.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HL68">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 27' 10.56",E23° 7' 6.81",+000093.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HL68</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

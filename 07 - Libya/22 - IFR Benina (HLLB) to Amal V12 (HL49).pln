@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HLLB to HL49</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>HLLB</DepartureID>
+        <DepartureLLA>N32° 4' 56.41",E20° 16' 38.90",+000400.00</DepartureLLA>
+        <DestinationID>HL49</DestinationID>
+        <DestinationLLA>N29° 28' 45.70",E21° 7' 22.45",+000137.00</DestinationLLA>
+        <Descr>HLLB, HL49</Descr>
+        <DepartureName>Benina</DepartureName>
+        <DestinationName>Amal V12</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HLLB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 5' 48.55",E20° 16' 10.45",+000400.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HLLB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sidi Khali">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 15' 0.95",E20° 11' 52.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al KUwaifi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 12' 10.52",E20° 10' 3.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Big Lake">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 8' 43.39",E20° 6' 0.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="23rd July ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 6' 18.68",E20° 3' 53.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AlKeesh Sq">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 5' 34.44",E20° 4' 37.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benghazi Z">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 4' 55.70",E20° 5' 47.24",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benghazi C">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 59' 52.39",E20° 8' 0.11",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Janrdinah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 47' 25.25",E20° 12' 24.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Artificial">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 43' 50.86",E20° 15' 57.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Suluq">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 40' 2.67",E20° 15' 0.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qaminis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 39' 25.59",E20° 0' 55.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AjdabiyaBe">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 24' 27.24",E20° 10' 35.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AjdabiyaBe">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 11' 38.43",E20° 13' 53.59",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AjdabiyaBe">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 8' 47.64",E20° 13' 48.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AjdabiyaBe">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 5' 23.95",E20° 13' 18.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AjdabiyaBe">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 59' 32.37",E20° 11' 1.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="AjdabiyaBe">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 54' 55.20",E20° 10' 57.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ajdabiya">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 44' 55.84",E20° 13' 45.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 18' 49.02",E20° 38' 7.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 31' 7.57",E21° 4' 22.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 31' 7.57",E21° 4' 22.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HL49">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 28' 45.70",E21° 7' 22.45",+000137.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HL49</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

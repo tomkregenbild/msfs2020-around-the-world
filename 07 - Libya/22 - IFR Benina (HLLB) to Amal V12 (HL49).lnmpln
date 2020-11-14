@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3500</CruisingAlt>
+      <CreationDate>2020-11-14T16:05:05</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="20.277473" Lat="32.082336" Alt="400.00"/>
+      <Start>33L</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HL4913</Name>
+        <Runway>13</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Benina</Name>
+        <Ident>HLLB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="20.269569" Lat="32.096821" Alt="400.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sidi Khalifah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.197908" Lat="32.250263" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al KUwaifia</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.167698" Lat="32.202923" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Big Lake</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.100061" Lat="32.145386" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>23rd July Lake</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.064787" Lat="32.105190" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al-Keesh Square</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.076973" Lat="32.092899" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Benghazi Zoo</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.096455" Lat="32.082138" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Benghazi Cement Factory</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.133364" Lat="31.997887" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Janrdinah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.206837" Lat="31.790348" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Artificial Lake</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.265886" Lat="31.730795" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Suluq</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.250095" Lat="31.667408" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Qaminis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.015347" Lat="31.657108" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya-Benghazi Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.176622" Lat="31.407566" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya-Benghazi Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.231552" Lat="31.194008" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya-Benghazi Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.230009" Lat="31.146566" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya-Benghazi Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.221941" Lat="31.089987" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya-Benghazi Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.183834" Lat="30.992325" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya-Benghazi Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.182631" Lat="30.915333" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ajdabiya</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.229237" Lat="30.748844" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="20.635303" Lat="30.313616" Alt="3500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Amal V12</Name>
+        <Ident>HL49</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="21.122902" Lat="29.479362" Alt="137.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
