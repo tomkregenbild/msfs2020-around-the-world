@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>5000</CruisingAlt>
+      <CreationDate>2020-11-20T12:28:07</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="16.013239" Lat="29.184986" Alt="880.00"/>
+      <Start>32</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HLMS33</Name>
+        <Runway>33</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Al Jufra</Name>
+        <Ident>HL69</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="16.001066" Lat="29.198013" Alt="880.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Take Off</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.945981" Lat="29.372601" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="16.046144" Lat="29.679403" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="16.011555" Lat="29.710419" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.950100" Lat="29.800133" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.835430" Lat="29.904949" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.808650" Lat="29.963264" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.737411" Lat="30.053049" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.739128" Lat="30.094791" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.704967" Lat="30.168280" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.682652" Lat="30.216356" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.640422" Lat="30.266777" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.613986" Lat="30.349178" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.600942" Lat="30.366949" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.530216" Lat="30.409891" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.467731" Lat="30.491879" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.463956" Lat="30.515244" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.403872" Lat="30.569651" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Abu Nujaym</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.405589" Lat="30.621370" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.359586" Lat="30.771339" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Junction</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.338256" Lat="30.805994" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.299161" Lat="30.868120" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.298217" Lat="30.927702" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.302850" Lat="30.948610" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.314353" Lat="30.965538" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.324994" Lat="30.998211" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.322506" Lat="31.010569" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.288175" Lat="31.047050" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.317014" Lat="31.238640" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Al Quaddahiyah</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.238048" Lat="31.369541" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Desert and Shore</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.560086" Lat="31.511826" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tawergha</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.045917" Lat="32.017681" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Preparte to Land</Ident>
+        <Type>USER</Type>
+        <Pos Lon="15.329372" Lat="31.988277" Alt="5000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Misurata</Name>
+        <Ident>HLMS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="15.060970" Lat="32.325329" Alt="30.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

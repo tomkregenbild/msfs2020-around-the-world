@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HLMS to HLZW</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>4000</CruisingAlt>
+        <DepartureID>HLMS</DepartureID>
+        <DepartureLLA>N32° 18' 46.52",E15° 4' 15.43",+000030.00</DepartureLLA>
+        <DestinationID>HLZW</DestinationID>
+        <DestinationLLA>N32° 57' 9.26",E12° 0' 54.76",+000009.00</DestinationLLA>
+        <Descr>HLMS, HLZW</Descr>
+        <DepartureName>Misurata</DepartureName>
+        <DestinationName>Zwara</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HLMS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 19' 31.18",E15° 3' 39.49",+000030.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HLMS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Take Off">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 27' 44.17",E14° 57' 23.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dafniya">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 24' 49.97",E14° 48' 26.31",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Naimah">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 26' 1.17",E14° 41' 29.79",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 25' 54.13",E14° 36' 50.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 27' 3.23",E14° 35' 21.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 27' 23.31",E14° 33' 32.55",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 30' 3.87",E14° 26' 22.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 37' 6.28",E14° 19' 46.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 37' 46.88",E14° 18' 25.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 38' 9.78",E14° 17' 19.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Khoms">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 38' 58.30",E14° 14' 56.17",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 37' 58.85",E14° 11' 24.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 35' 58.09",E14° 7' 32.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 33' 40.62",E14° 4' 24.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Masallata">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 34' 53.53",E14° 2' 26.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 38' 13.42",E13° 58' 1.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 40' 5.81",E13° 56' 42.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Qaser Al K">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 41' 43.59",E13° 50' 46.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Castelverd">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 44' 35.17",E13° 42' 45.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Coastal Hi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 41.20",E13° 35' 2.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tripoli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 54' 29.78",E13° 17' 23.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tripoli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 54' 32.37",E13° 14' 1.89",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tripoli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 54' 9.54",E13° 13' 1.95",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tripoli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 51' 26.06",E13° 10' 3.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tripoli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 50' 35.70",E13° 3' 46.07",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Janzur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 50' 20.13",E13° 2' 30.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Janzur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 49' 44.30",E13° 0' 56.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Coasta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 48' 11.85",E12° 55' 30.45",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Coasta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 47' 28.74",E12° 49' 55.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Az Zawiya ">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 46' 45.62",E12° 41' 27.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="The Coasta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 28.19",E12° 34' 16.18",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ancient Sa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 48' 12.37",E12° 29' 2.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Agelat">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 45' 27.93",E12° 22' 33.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mellitah C">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 50' 54.39",E12° 14' 32.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 5' 17.12",E12° 16' 14.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 58' 55.54",E12° 4' 29.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N32° 58' 55.54",E12° 4' 29.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HLZW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 57' 9.26",E12° 0' 54.76",+000009.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HLZW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

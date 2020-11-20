@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>4000</CruisingAlt>
+      <CreationDate>2020-11-20T20:13:52</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="12.023220" Lat="32.956539" Alt="9.00"/>
+      <Start>24</Start>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>HLTD24</Name>
+        <Runway>24</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Zwara</Name>
+        <Ident>HLZW</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="12.015211" Lat="32.952572" Alt="9.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.921250" Lat="32.913025" Alt="2180.48"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.991975" Lat="32.884777" Alt="3799.05"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="12.070939" Lat="32.847290" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="12.044847" Lat="32.812672" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="12.044847" Lat="32.802860" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="12.030427" Lat="32.787273" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.947343" Lat="32.667126" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP8</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.937730" Lat="32.624340" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP9</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.899964" Lat="32.592529" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP10</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.768128" Lat="32.468060" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP11</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.751649" Lat="32.266232" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP13</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.776368" Lat="32.154686" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP15</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.766755" Lat="32.077919" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP14</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.728303" Lat="32.008076" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP16</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.659638" Lat="31.989441" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP17</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.542565" Lat="32.044170" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP19</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.353738" Lat="32.009823" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP21</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.302239" Lat="32.020012" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP25</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.163365" Lat="31.969639" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP26</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.066548" Lat="31.923027" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP27</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.030843" Lat="31.878723" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP28</Ident>
+        <Type>USER</Type>
+        <Pos Lon="11.011617" Lat="31.862980" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP22</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.984151" Lat="31.862396" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP23</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.962007" Lat="31.798223" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP30</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.921666" Lat="31.726416" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP29</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.866735" Lat="31.663902" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP31</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.655934" Lat="31.414015" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP34</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.621259" Lat="31.271509" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP35</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.592076" Lat="31.151707" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP36</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.601346" Lat="31.096455" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP32</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.602805" Lat="31.026018" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP38</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.521352" Lat="30.957296" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP37</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.476033" Lat="30.899279" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP40</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.444448" Lat="30.860384" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP39</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.428311" Lat="30.801718" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP43</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.347974" Lat="30.667448" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP44</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.326001" Lat="30.582361" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP42</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.342481" Lat="30.514950" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP45</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.411145" Lat="30.503117" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP46</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.455091" Lat="30.434465" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP47</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.455091" Lat="30.294647" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP48</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.439984" Lat="30.250763" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP49</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.467793" Lat="30.211016" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP50</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.453717" Lat="30.169765" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP55</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.434491" Lat="30.177187" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP54</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.410115" Lat="30.174515" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP53</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.375096" Lat="30.186090" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP56</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.299565" Lat="30.219025" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP59</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.274846" Lat="30.218431" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP58</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.244290" Lat="30.226738" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP57</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.183866" Lat="30.251654" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP62</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.850156" Lat="30.303835" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP67</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.895474" Lat="30.236231" Alt="4000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ghadames</Name>
+        <Ident>HLTD</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.709163" Lat="30.146034" Alt="1139.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

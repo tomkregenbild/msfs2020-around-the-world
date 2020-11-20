@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HLLS to HL69</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>HLLS</DepartureID>
+        <DepartureLLA>N26° 59' 6.22",E14° 28' 41.10",+001414.00</DepartureLLA>
+        <DestinationID>HL69</DestinationID>
+        <DestinationLLA>N29° 11' 52.85",E16° 0' 3.84",+000880.00</DestinationLLA>
+        <Descr>HLLS, HL69</Descr>
+        <DepartureName>Sebha</DepartureName>
+        <DestinationName>Al Jufra</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HLLS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 59' 28.22",E14° 27' 57.78",+001414.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>HLLS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Mahruqa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 29' 59.08",E13° 58' 25.08",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Aqar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 32' 11.71",E14° 9' 44.86",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brak">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 32' 46.78",E14° 16' 20.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Junction">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 32' 21.58",E14° 22' 34.86",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 27' 16.79",E14° 25' 53.24",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 25' 4.06",E14° 28' 30.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 19' 22.16",E14° 31' 17.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tamanhint">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 12' 20.83",E14° 37' 43.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Agricaltur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 12' 23.71",E14° 44' 52.33",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 11' 56.37",E14° 51' 53.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Samnu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 13' 16.06",E14° 53' 30.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Samnu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 15' 36.44",E14° 54' 8.51",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Al Fiqaha">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N27° 48' 27.00",E16° 23' 32.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Prepare to">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 0' 3.36",E16° 12' 16.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 8' 45.72",E16° 2' 58.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 8' 45.72",E16° 2' 58.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HL69">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 11' 52.85",E16° 0' 3.84",+000880.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>HL69</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
