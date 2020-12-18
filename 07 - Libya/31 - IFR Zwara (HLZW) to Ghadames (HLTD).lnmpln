@@ -3,11 +3,11 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>4000</CruisingAlt>
-      <CreationDate>2020-11-20T20:13:52</CreationDate>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-12-18T15:13:56</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
-      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <ProgramVersion>2.6.6</ProgramVersion>
       <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
     </Header>
     <SimData>MSFS</SimData>
@@ -38,269 +38,274 @@
         <Pos Lon="12.015211" Lat="32.952572" Alt="9.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP1</Ident>
+        <Ident>Take Off</Ident>
         <Type>USER</Type>
         <Pos Lon="11.921250" Lat="32.913025" Alt="2180.48"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP2</Ident>
+        <Ident>Riqdalin</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.991975" Lat="32.884777" Alt="3799.05"/>
+        <Pos Lon="11.986567" Lat="32.887409" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP3</Ident>
+        <Ident>Aljmail</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.070939" Lat="32.847290" Alt="4000.00"/>
+        <Pos Lon="12.070939" Lat="32.847290" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP5</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.044847" Lat="32.812672" Alt="4000.00"/>
+        <Pos Lon="12.047378" Lat="32.811985" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP6</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.044847" Lat="32.802860" Alt="4000.00"/>
+        <Pos Lon="12.044847" Lat="32.802860" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP7</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.030427" Lat="32.787273" Alt="4000.00"/>
+        <Pos Lon="12.030428" Lat="32.787273" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP4</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.947343" Lat="32.667126" Alt="4000.00"/>
+        <Pos Lon="11.947342" Lat="32.667126" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP8</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.937730" Lat="32.624340" Alt="4000.00"/>
+        <Pos Lon="11.937731" Lat="32.624340" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP9</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.899964" Lat="32.592529" Alt="4000.00"/>
+        <Pos Lon="11.899964" Lat="32.592529" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP10</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.768128" Lat="32.468060" Alt="4000.00"/>
+        <Pos Lon="11.768127" Lat="32.468060" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP11</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.751649" Lat="32.266232" Alt="4000.00"/>
+        <Pos Lon="11.751650" Lat="32.266232" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP13</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.776368" Lat="32.154686" Alt="4000.00"/>
+        <Pos Lon="11.776369" Lat="32.154686" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP15</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.766755" Lat="32.077919" Alt="4000.00"/>
+        <Pos Lon="11.766755" Lat="32.077919" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP14</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.728303" Lat="32.008076" Alt="4000.00"/>
+        <Pos Lon="11.728303" Lat="32.008076" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP16</Ident>
+        <Ident>Al Jawsh</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.659638" Lat="31.989441" Alt="4000.00"/>
+        <Pos Lon="11.661528" Lat="31.989590" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP17</Ident>
+        <Ident>Badr</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.542565" Lat="32.044170" Alt="4000.00"/>
+        <Pos Lon="11.542480" Lat="32.055370" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP19</Ident>
+        <Ident>Tiji</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.353738" Lat="32.009823" Alt="4000.00"/>
+        <Pos Lon="11.353739" Lat="32.009823" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP21</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.302239" Lat="32.020012" Alt="4000.00"/>
+        <Pos Lon="11.302238" Lat="32.020012" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP25</Ident>
+        <Ident>Small Town</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.163365" Lat="31.969639" Alt="4000.00"/>
+        <Pos Lon="11.162850" Lat="31.970219" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP26</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.066548" Lat="31.923027" Alt="4000.00"/>
+        <Pos Lon="11.066892" Lat="31.924847" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP27</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.030843" Lat="31.878723" Alt="4000.00"/>
+        <Pos Lon="11.047236" Lat="31.906853" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP28</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="11.011617" Lat="31.862980" Alt="4000.00"/>
+        <Pos Lon="11.030842" Lat="31.878723" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP22</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.984151" Lat="31.862396" Alt="4000.00"/>
+        <Pos Lon="11.011617" Lat="31.862980" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP23</Ident>
+        <Ident>Shadad</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.962007" Lat="31.798223" Alt="4000.00"/>
+        <Pos Lon="10.984150" Lat="31.862398" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP30</Ident>
+        <Ident>Al Kirabh</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.921666" Lat="31.726416" Alt="4000.00"/>
+        <Pos Lon="10.962006" Lat="31.798222" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP29</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.866735" Lat="31.663902" Alt="4000.00"/>
+        <Pos Lon="10.921667" Lat="31.726418" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP31</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.655934" Lat="31.414015" Alt="4000.00"/>
+        <Pos Lon="10.866736" Lat="31.663902" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP34</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.621259" Lat="31.271509" Alt="4000.00"/>
+        <Pos Lon="10.655933" Lat="31.414015" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP35</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.592076" Lat="31.151707" Alt="4000.00"/>
+        <Pos Lon="10.621259" Lat="31.271509" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP36</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.601346" Lat="31.096455" Alt="4000.00"/>
+        <Pos Lon="10.592075" Lat="31.151705" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP32</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.602805" Lat="31.026018" Alt="4000.00"/>
+        <Pos Lon="10.601347" Lat="31.096455" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP38</Ident>
+        <Ident>Sinawin</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.521352" Lat="30.957296" Alt="4000.00"/>
+        <Pos Lon="10.603063" Lat="31.025908" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP37</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.476033" Lat="30.899279" Alt="4000.00"/>
+        <Pos Lon="10.521353" Lat="30.957296" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP40</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.444448" Lat="30.860384" Alt="4000.00"/>
+        <Pos Lon="10.476033" Lat="30.899279" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP39</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.428311" Lat="30.801718" Alt="4000.00"/>
+        <Pos Lon="10.444448" Lat="30.860384" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP43</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.347974" Lat="30.667448" Alt="4000.00"/>
+        <Pos Lon="10.428311" Lat="30.801716" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP44</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.326001" Lat="30.582361" Alt="4000.00"/>
+        <Pos Lon="10.347975" Lat="30.667448" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP42</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.342481" Lat="30.514950" Alt="4000.00"/>
+        <Pos Lon="10.326000" Lat="30.582361" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP45</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.411145" Lat="30.503117" Alt="4000.00"/>
+        <Pos Lon="10.342481" Lat="30.514950" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP46</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.455091" Lat="30.434465" Alt="4000.00"/>
+        <Pos Lon="10.411144" Lat="30.503117" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP47</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.455091" Lat="30.294647" Alt="4000.00"/>
+        <Pos Lon="10.455091" Lat="30.434467" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP48</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.439984" Lat="30.250763" Alt="4000.00"/>
+        <Pos Lon="10.455091" Lat="30.294647" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP49</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.467793" Lat="30.211016" Alt="4000.00"/>
+        <Pos Lon="10.439983" Lat="30.250763" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP50</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.453717" Lat="30.169765" Alt="4000.00"/>
+        <Pos Lon="10.467794" Lat="30.211018" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP55</Ident>
+        <Ident>Dirj</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.434491" Lat="30.177187" Alt="4000.00"/>
+        <Pos Lon="10.453716" Lat="30.169767" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP54</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.410115" Lat="30.174515" Alt="4000.00"/>
+        <Pos Lon="10.434492" Lat="30.177187" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP53</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.375096" Lat="30.186090" Alt="4000.00"/>
+        <Pos Lon="10.410114" Lat="30.174515" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP56</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.299565" Lat="30.219025" Alt="4000.00"/>
+        <Pos Lon="10.375097" Lat="30.186092" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP59</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.274846" Lat="30.218431" Alt="4000.00"/>
+        <Pos Lon="10.299566" Lat="30.219025" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP58</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.244290" Lat="30.226738" Alt="4000.00"/>
+        <Pos Lon="10.274847" Lat="30.218431" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP57</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.183866" Lat="30.251654" Alt="4000.00"/>
+        <Pos Lon="10.244291" Lat="30.226738" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP62</Ident>
+        <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.850156" Lat="30.303835" Alt="4000.00"/>
+        <Pos Lon="10.183867" Lat="30.251654" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP67</Ident>
+        <Ident>Salt Lakes</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.895474" Lat="30.236231" Alt="4000.00"/>
+        <Pos Lon="9.850156" Lat="30.303837" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Prepare to Land</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.895475" Lat="30.236231" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Ghadames</Name>

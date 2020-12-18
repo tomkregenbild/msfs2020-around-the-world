@@ -5,7 +5,7 @@
         <Title>HLZW to HLTD</Title>
         <FPType>IFR</FPType>
         <RouteType>LowAlt</RouteType>
-        <CruisingAlt>4000</CruisingAlt>
+        <CruisingAlt>3000</CruisingAlt>
         <DepartureID>HLZW</DepartureID>
         <DepartureLLA>N32° 57' 23.54",E12° 1' 23.59",+000009.00</DepartureLLA>
         <DestinationID>HLTD</DestinationID>
@@ -25,225 +25,229 @@
                 <ICAOIdent>HLZW</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="WP1">
+        <ATCWaypoint id="Take Off">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 54' 46.89",E11° 55' 16.50",+000000.00</WorldPosition>
+            <WorldPosition>N32° 54' 46.89",E11° 55' 16.50",+002180.48</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP2">
+        <ATCWaypoint id="Riqdalin">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 53' 5.20",E11° 59' 31.11",+000000.00</WorldPosition>
+            <WorldPosition>N32° 53' 14.67",E11° 59' 11.64",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP3">
+        <ATCWaypoint id="Aljmail">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 50' 50.24",E12° 4' 15.38",+000000.00</WorldPosition>
+            <WorldPosition>N32° 50' 50.24",E12° 4' 15.38",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP5">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 48' 45.62",E12° 2' 41.45",+000000.00</WorldPosition>
+            <WorldPosition>N32° 48' 43.15",E12° 2' 50.56",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP6">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 48' 10.30",E12° 2' 41.45",+000000.00</WorldPosition>
+            <WorldPosition>N32° 48' 10.30",E12° 2' 41.45",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP7">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 47' 14.18",E12° 1' 49.54",+000000.00</WorldPosition>
+            <WorldPosition>N32° 47' 14.18",E12° 1' 49.54",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP4">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 40' 1.65",E11° 56' 50.43",+000000.00</WorldPosition>
+            <WorldPosition>N32° 40' 1.65",E11° 56' 50.43",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP8">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 37' 27.62",E11° 56' 15.83",+000000.00</WorldPosition>
+            <WorldPosition>N32° 37' 27.62",E11° 56' 15.83",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP9">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 35' 33.11",E11° 53' 59.87",+000000.00</WorldPosition>
+            <WorldPosition>N32° 35' 33.11",E11° 53' 59.87",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP10">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 28' 5.01",E11° 46' 5.26",+000000.00</WorldPosition>
+            <WorldPosition>N32° 28' 5.01",E11° 46' 5.26",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP11">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 15' 58.43",E11° 45' 5.94",+000000.00</WorldPosition>
+            <WorldPosition>N32° 15' 58.43",E11° 45' 5.94",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP13">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 9' 16.87",E11° 46' 34.93",+000000.00</WorldPosition>
+            <WorldPosition>N32° 9' 16.87",E11° 46' 34.93",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP15">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 4' 40.51",E11° 46' 0.32",+000000.00</WorldPosition>
+            <WorldPosition>N32° 4' 40.51",E11° 46' 0.32",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP14">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 0' 29.07",E11° 43' 41.89",+000000.00</WorldPosition>
+            <WorldPosition>N32° 0' 29.07",E11° 43' 41.89",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP16">
+        <ATCWaypoint id="Al Jawsh">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 59' 21.99",E11° 39' 34.70",+000000.00</WorldPosition>
+            <WorldPosition>N31° 59' 22.52",E11° 39' 41.50",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP17">
+        <ATCWaypoint id="Badr">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 2' 39.01",E11° 32' 33.24",+000000.00</WorldPosition>
+            <WorldPosition>N32° 3' 19.33",E11° 32' 32.93",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP19">
+        <ATCWaypoint id="Tiji">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 0' 35.36",E11° 21' 13.46",+000000.00</WorldPosition>
+            <WorldPosition>N32° 0' 35.36",E11° 21' 13.46",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP21">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N32° 1' 12.04",E11° 18' 8.06",+000000.00</WorldPosition>
+            <WorldPosition>N32° 1' 12.04",E11° 18' 8.06",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP25">
+        <ATCWaypoint id="Small Town">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 58' 10.70",E11° 9' 48.12",+000000.00</WorldPosition>
+            <WorldPosition>N31° 58' 12.79",E11° 9' 46.26",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP26">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 55' 22.90",E11° 3' 59.57",+000000.00</WorldPosition>
+            <WorldPosition>N31° 55' 29.45",E11° 4' 0.81",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP27">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 52' 43.40",E11° 1' 51.03",+000000.00</WorldPosition>
+            <WorldPosition>N31° 54' 24.67",E11° 2' 50.05",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP28">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 51' 46.73",E11° 0' 41.82",+000000.00</WorldPosition>
+            <WorldPosition>N31° 52' 43.40",E11° 1' 51.03",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP22">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 51' 44.63",E10° 59' 2.94",+000000.00</WorldPosition>
+            <WorldPosition>N31° 51' 46.73",E11° 0' 41.82",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP23">
+        <ATCWaypoint id="Shadad">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 47' 53.60",E10° 57' 43.22",+000000.00</WorldPosition>
+            <WorldPosition>N31° 51' 44.63",E10° 59' 2.94",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP30">
+        <ATCWaypoint id="Al Kirabh">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 43' 35.10",E10° 55' 18.00",+000000.00</WorldPosition>
+            <WorldPosition>N31° 47' 53.60",E10° 57' 43.22",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP29">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 39' 50.05",E10° 52' 0.24",+000000.00</WorldPosition>
+            <WorldPosition>N31° 43' 35.10",E10° 55' 18.00",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP31">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 24' 50.45",E10° 39' 21.36",+000000.00</WorldPosition>
+            <WorldPosition>N31° 39' 50.05",E10° 52' 0.25",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP34">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 16' 17.43",E10° 37' 16.53",+000000.00</WorldPosition>
+            <WorldPosition>N31° 24' 50.45",E10° 39' 21.36",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP35">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 9' 6.14",E10° 35' 31.47",+000000.00</WorldPosition>
+            <WorldPosition>N31° 16' 17.43",E10° 37' 16.53",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP36">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 5' 47.24",E10° 36' 4.85",+000000.00</WorldPosition>
+            <WorldPosition>N31° 9' 6.14",E10° 35' 31.47",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP32">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N31° 1' 33.67",E10° 36' 10.10",+000000.00</WorldPosition>
+            <WorldPosition>N31° 5' 47.24",E10° 36' 4.85",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP38">
+        <ATCWaypoint id="Sinawin">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 57' 26.27",E10° 31' 16.87",+000000.00</WorldPosition>
+            <WorldPosition>N31° 1' 33.27",E10° 36' 11.03",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP37">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 53' 57.40",E10° 28' 33.72",+000000.00</WorldPosition>
+            <WorldPosition>N30° 57' 26.27",E10° 31' 16.87",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP40">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 51' 37.38",E10° 26' 40.01",+000000.00</WorldPosition>
+            <WorldPosition>N30° 53' 57.40",E10° 28' 33.72",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP39">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 48' 6.18",E10° 25' 41.92",+000000.00</WorldPosition>
+            <WorldPosition>N30° 51' 37.38",E10° 26' 40.01",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP43">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 40' 2.81",E10° 20' 52.71",+000000.00</WorldPosition>
+            <WorldPosition>N30° 48' 6.18",E10° 25' 41.92",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP44">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 34' 56.50",E10° 19' 33.60",+000000.00</WorldPosition>
+            <WorldPosition>N30° 40' 2.81",E10° 20' 52.71",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP42">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 30' 53.82",E10° 20' 32.93",+000000.00</WorldPosition>
+            <WorldPosition>N30° 34' 56.50",E10° 19' 33.60",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP45">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 30' 11.22",E10° 24' 40.12",+000000.00</WorldPosition>
+            <WorldPosition>N30° 30' 53.82",E10° 20' 32.93",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP46">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 26' 4.08",E10° 27' 18.33",+000000.00</WorldPosition>
+            <WorldPosition>N30° 30' 11.22",E10° 24' 40.12",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP47">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 17' 40.73",E10° 27' 18.33",+000000.00</WorldPosition>
+            <WorldPosition>N30° 26' 4.08",E10° 27' 18.33",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP48">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 15' 2.75",E10° 26' 23.94",+000000.00</WorldPosition>
+            <WorldPosition>N30° 17' 40.73",E10° 27' 18.33",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP49">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 12' 39.66",E10° 28' 4.06",+000000.00</WorldPosition>
+            <WorldPosition>N30° 15' 2.75",E10° 26' 23.94",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP50">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 10' 11.16",E10° 27' 13.38",+000000.00</WorldPosition>
+            <WorldPosition>N30° 12' 39.66",E10° 28' 4.06",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP55">
+        <ATCWaypoint id="Dirj">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 10' 37.87",E10° 26' 4.17",+000000.00</WorldPosition>
+            <WorldPosition>N30° 10' 11.16",E10° 27' 13.38",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP54">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 10' 28.25",E10° 24' 36.41",+000000.00</WorldPosition>
+            <WorldPosition>N30° 10' 37.87",E10° 26' 4.17",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP53">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 11' 9.93",E10° 22' 30.35",+000000.00</WorldPosition>
+            <WorldPosition>N30° 10' 28.25",E10° 24' 36.41",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP56">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 13' 8.49",E10° 17' 58.44",+000000.00</WorldPosition>
+            <WorldPosition>N30° 11' 9.93",E10° 22' 30.35",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP59">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 13' 6.35",E10° 16' 29.45",+000000.00</WorldPosition>
+            <WorldPosition>N30° 13' 8.49",E10° 17' 58.44",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP58">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 13' 36.26",E10° 14' 39.45",+000000.00</WorldPosition>
+            <WorldPosition>N30° 13' 6.35",E10° 16' 29.45",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP57">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 15' 5.95",E10° 11' 1.92",+000000.00</WorldPosition>
+            <WorldPosition>N30° 13' 36.26",E10° 14' 39.45",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP62">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 18' 13.81",E9° 51' 0.56",+000000.00</WorldPosition>
+            <WorldPosition>N30° 15' 5.95",E10° 11' 1.92",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="WP67">
+        <ATCWaypoint id="Road">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 14' 10.43",E9° 53' 43.71",+000000.00</WorldPosition>
+            <WorldPosition>N30° 18' 13.81",E9° 51' 0.56",+003000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="User_WP">
+        <ATCWaypoint id="Prepare to">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 10' 38.71",E9° 46' 18.88",+000000.00</WorldPosition>
+            <WorldPosition>N30° 14' 10.43",E9° 53' 43.71",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="IF24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 10' 38.71",E9° 46' 18.88",+002139.00</WorldPosition>
         </ATCWaypoint>
         <ATCWaypoint id="RW24">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N30° 10' 38.71",E9° 46' 18.88",+000000.00</WorldPosition>
+            <WorldPosition>N30° 9' 15.13",E9° 43' 14.53",+001139.00</WorldPosition>
         </ATCWaypoint>
         <ATCWaypoint id="HLTD">
             <ATCWaypointType>Airport</ATCWaypointType>

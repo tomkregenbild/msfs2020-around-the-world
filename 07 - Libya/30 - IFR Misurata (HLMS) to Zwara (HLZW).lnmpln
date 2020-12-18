@@ -3,11 +3,11 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>4000</CruisingAlt>
-      <CreationDate>2020-11-20T14:37:22</CreationDate>
+      <CruisingAlt>2500</CruisingAlt>
+      <CreationDate>2020-12-17T19:30:15</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
-      <ProgramVersion>2.6.1.beta</ProgramVersion>
+      <ProgramVersion>2.6.6</ProgramVersion>
       <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
     </Header>
     <SimData>MSFS</SimData>
@@ -40,177 +40,177 @@
       <Waypoint>
         <Ident>Take Off</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.956611" Lat="32.462269" Alt="4000.00"/>
+        <Pos Lon="14.956611" Lat="32.462269" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Dafniya</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.807308" Lat="32.413879" Alt="4000.00"/>
+        <Pos Lon="14.807308" Lat="32.413879" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Na'imah</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.691608" Lat="32.433659" Alt="4000.00"/>
+        <Pos Lon="14.691608" Lat="32.433659" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.614017" Lat="32.431702" Alt="4000.00"/>
+        <Pos Lon="14.614017" Lat="32.431702" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.589383" Lat="32.450897" Alt="4000.00"/>
+        <Pos Lon="14.589383" Lat="32.450897" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.559042" Lat="32.456474" Alt="4000.00"/>
+        <Pos Lon="14.559042" Lat="32.456474" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.439567" Lat="32.501076" Alt="4000.00"/>
+        <Pos Lon="14.439567" Lat="32.501076" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.329702" Lat="32.618412" Alt="4000.00"/>
+        <Pos Lon="14.329702" Lat="32.618412" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.307214" Lat="32.629688" Alt="4000.00"/>
+        <Pos Lon="14.307214" Lat="32.629688" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.288847" Lat="32.636051" Alt="4000.00"/>
+        <Pos Lon="14.288847" Lat="32.636051" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Khoms</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.248936" Lat="32.649529" Alt="4000.00"/>
+        <Pos Lon="14.248936" Lat="32.649529" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.190269" Lat="32.633015" Alt="4000.00"/>
+        <Pos Lon="14.190269" Lat="32.633015" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.125725" Lat="32.599468" Alt="4000.00"/>
+        <Pos Lon="14.125725" Lat="32.599468" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.073542" Lat="32.561283" Alt="4000.00"/>
+        <Pos Lon="14.073542" Lat="32.561283" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Masallata</Ident>
         <Type>USER</Type>
-        <Pos Lon="14.040581" Lat="32.581535" Alt="4000.00"/>
+        <Pos Lon="14.040581" Lat="32.581535" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.967112" Lat="32.637062" Alt="4000.00"/>
+        <Pos Lon="13.967112" Lat="32.637062" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.945139" Lat="32.668282" Alt="4000.00"/>
+        <Pos Lon="13.945139" Lat="32.668282" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Qaser Al Khiar</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.846261" Lat="32.695442" Alt="4000.00"/>
+        <Pos Lon="13.846261" Lat="32.695442" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Castelverde</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.712708" Lat="32.743103" Alt="4000.00"/>
+        <Pos Lon="13.712708" Lat="32.743103" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Coastal Highway</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.583961" Lat="32.794777" Alt="4000.00"/>
+        <Pos Lon="13.583961" Lat="32.794777" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Tripoli</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.289991" Lat="32.908272" Alt="4000.00"/>
+        <Pos Lon="13.289991" Lat="32.908272" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Tripoli</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.233858" Lat="32.908993" Alt="4000.00"/>
+        <Pos Lon="13.233858" Lat="32.908993" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Tripoli</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.217208" Lat="32.902649" Alt="4000.00"/>
+        <Pos Lon="13.217208" Lat="32.902649" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Tripoli</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.167769" Lat="32.857239" Alt="4000.00"/>
+        <Pos Lon="13.167769" Lat="32.857239" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Tripoli</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.062798" Lat="32.843250" Alt="4000.00"/>
+        <Pos Lon="13.062798" Lat="32.843250" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Janzur</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.041856" Lat="32.838924" Alt="4000.00"/>
+        <Pos Lon="13.041856" Lat="32.838924" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Janzur</Ident>
         <Type>USER</Type>
-        <Pos Lon="13.015592" Lat="32.828972" Alt="4000.00"/>
+        <Pos Lon="13.015592" Lat="32.828972" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>The Coastal Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.925125" Lat="32.803291" Alt="4000.00"/>
+        <Pos Lon="12.925125" Lat="32.803291" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>The Coastal Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.832000" Lat="32.791317" Alt="4000.00"/>
+        <Pos Lon="12.832000" Lat="32.791317" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Az Zawiya Oil Refining Company</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.690981" Lat="32.779339" Alt="4000.00"/>
+        <Pos Lon="12.690981" Lat="32.779339" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>The Coastal Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.571161" Lat="32.757832" Alt="4000.00"/>
+        <Pos Lon="12.571161" Lat="32.757832" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Ancient Sabratah</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.484086" Lat="32.803436" Alt="4000.00"/>
+        <Pos Lon="12.484086" Lat="32.803436" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Agelat</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.375980" Lat="32.757759" Alt="4000.00"/>
+        <Pos Lon="12.375980" Lat="32.757759" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Mellitah Complex Oil and Gas</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.242258" Lat="32.848442" Alt="4000.00"/>
+        <Pos Lon="12.242258" Lat="32.848442" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Prepare to Land</Ident>
         <Type>USER</Type>
-        <Pos Lon="12.270753" Lat="33.088089" Alt="4000.00"/>
+        <Pos Lon="12.270753" Lat="33.088089" Alt="2500.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Zwara</Name>

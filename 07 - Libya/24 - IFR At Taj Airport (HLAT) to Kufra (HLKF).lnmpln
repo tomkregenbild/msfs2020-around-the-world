@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>3500</CruisingAlt>
-      <CreationDate>2020-11-14T16:33:55</CreationDate>
+      <CruisingAlt>4000</CruisingAlt>
+      <CreationDate>2020-11-21T10:27:14</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.1.beta</ProgramVersion>
@@ -40,92 +40,92 @@
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="21.708744" Lat="25.476753" Alt="3500.00"/>
+        <Pos Lon="21.708744" Lat="25.476753" Alt="3889.94"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.690647" Lat="25.402344" Alt="3500.00"/>
+        <Pos Lon="22.690647" Lat="25.402344" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.760687" Lat="25.353956" Alt="3500.00"/>
+        <Pos Lon="22.760687" Lat="25.353956" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.804630" Lat="25.353956" Alt="3500.00"/>
+        <Pos Lon="22.804630" Lat="25.353956" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.910376" Lat="25.276985" Alt="3500.00"/>
+        <Pos Lon="22.910376" Lat="25.276985" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.943333" Lat="25.214880" Alt="3500.00"/>
+        <Pos Lon="22.943333" Lat="25.214880" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.944279" Lat="25.111094" Alt="3500.00"/>
+        <Pos Lon="22.944279" Lat="25.111094" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.956980" Lat="25.092127" Alt="3500.00"/>
+        <Pos Lon="22.956980" Lat="25.092127" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.954319" Lat="25.068186" Alt="3500.00"/>
+        <Pos Lon="22.954319" Lat="25.068186" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.994144" Lat="25.030861" Alt="3500.00"/>
+        <Pos Lon="22.994144" Lat="25.030861" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="22.999895" Lat="24.991659" Alt="3500.00"/>
+        <Pos Lon="22.999895" Lat="24.991659" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.035944" Lat="24.932833" Alt="3500.00"/>
+        <Pos Lon="23.035944" Lat="24.932833" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.109501" Lat="24.724380" Alt="3500.00"/>
+        <Pos Lon="23.109501" Lat="24.724380" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.128727" Lat="24.523386" Alt="3500.00"/>
+        <Pos Lon="23.128727" Lat="24.523386" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.167437" Lat="24.471525" Alt="3500.00"/>
+        <Pos Lon="23.167437" Lat="24.471525" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Road</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.185974" Lat="24.400572" Alt="3500.00"/>
+        <Pos Lon="23.185974" Lat="24.400572" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Mustafa Mosque</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.208979" Lat="24.339903" Alt="3500.00"/>
+        <Pos Lon="23.208979" Lat="24.339903" Alt="4000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Prepare to Land</Ident>
         <Type>USER</Type>
-        <Pos Lon="23.356695" Lat="24.322073" Alt="3500.00"/>
+        <Pos Lon="23.356695" Lat="24.322073" Alt="3567.53"/>
       </Waypoint>
       <Waypoint>
         <Name>Kufra</Name>
