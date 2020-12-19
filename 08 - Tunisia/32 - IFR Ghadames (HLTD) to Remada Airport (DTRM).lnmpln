@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-12-19T17:59:55</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.6</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>C:/Users/Tom/OneDrive/FS2020/Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="9.712673" Lat="30.136784" Alt="1139.00"/>
+      <Start>01</Start>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Ghadames</Name>
+        <Ident>HLTD</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.709163" Lat="30.146034" Alt="1139.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>C211 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.767034" Lat="30.374653" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>C211 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.980580" Lat="30.477083" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>C211 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.032078" Lat="30.607185" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>C211 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.061603" Lat="30.676897" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>C211 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.164600" Lat="30.863920" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nawara</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.063578" Lat="31.002920" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Petro Service</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.115559" Lat="31.029989" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>C211 Road</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.154986" Lat="31.077637" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Remada Airport</Name>
+        <Ident>DTRM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.041670" Lat="31.397587" Alt="1178.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

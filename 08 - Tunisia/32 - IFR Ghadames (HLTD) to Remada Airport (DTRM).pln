@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>HLTD to DTRM</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>HLTD</DepartureID>
+        <DepartureLLA>N30° 8' 12.42",E9° 42' 45.62",+001139.00</DepartureLLA>
+        <DestinationID>DTRM</DestinationID>
+        <DestinationLLA>N31° 23' 51.31",E10° 2' 30.01",+001178.00</DestinationLLA>
+        <Descr>HLTD, DTRM</Descr>
+        <DepartureName>Ghadames</DepartureName>
+        <DestinationName>Remada Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="HLTD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 8' 45.72",E9° 42' 32.99",+001139.00</WorldPosition>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>HLTD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="C211 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 22' 28.75",E9° 46' 1.32",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="C211 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 28' 37.50",E9° 58' 50.09",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="C211 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 36' 25.87",E10° 1' 55.48",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="C211 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 40' 36.83",E10° 3' 41.77",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="C211 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N30° 51' 50.11",E10° 9' 52.56",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nawara">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 0' 10.51",E10° 3' 48.88",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Petro Serv">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 1' 47.96",E10° 6' 56.01",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="C211 Road">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N31° 4' 39.49",E10° 9' 17.95",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DTRM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N31° 23' 51.31",E10° 2' 30.01",+001178.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DTRM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
